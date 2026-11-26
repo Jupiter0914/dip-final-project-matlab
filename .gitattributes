@@ -1,0 +1,17 @@
+* text=auto eol=lf
+*.pm3 binary
+*.png binary
+*.gif binary
+*.mat binary
+data/manifests/frozen.csv -text
+
+
+# Keep the measured kernel and diagnostic receipt byte-identical on every checkout
+performance/kernel/*.m -text
+performance/versions/*/*.m -text
+perf_results/*/equivalence.json -text
+perf_results/*/equivalence.ok -text
+perf_results/**/*.csv -text
+perf_results/**/*.json -text
+data/manifests/exact_fast/exact_fast*.csv -text
+data/manifests/exact_fast/exact_fast*.txt -text

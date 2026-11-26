@@ -1,0 +1,16 @@
+{
+  "stage": "development equivalence validation",
+  "version": "v1",
+  "first_failed_assertion": "cache_reused",
+  "round": 1,
+  "rebuilt_ring_ids_one_based": [1],
+  "fast_reused_ring_ids": [],
+  "reference_reused_ring_ids": [],
+  "difference": "The same empty index set had MATLAB shapes 0-by-1 and 0-by-0",
+  "correction": "Normalize both arrays to columns before comparing index values and order",
+  "changed_production_kernel": false,
+  "rerun_from_first_input": true,
+  "rerun_scope": "520 synthetic fixtures and 36 allocated trainval sources, four methods",
+  "rerun_mismatches": 0,
+  "local_original_witness_sha256": "f400b14ab147bc551e4628ea568fa1254a420f1d1dde8e76c269bed8a445cfb7"
+}

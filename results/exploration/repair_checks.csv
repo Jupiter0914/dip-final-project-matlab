@@ -1,0 +1,328 @@
+id,budget,policy,check,kind,counts,reason,xor
+Bengal_187,128,ordered,1,output,28,ok,1227
+Bengal_187,128,context,1,output,28,ok,1227
+Bengal_187,256,ordered,1,output,60,ok,412
+Bengal_187,256,context,1,output,60,ok,412
+Bengal_187,512,ordered,1,output,124,ok,206
+Bengal_187,512,context,1,output,124,ok,206
+Bengal_108,128,ordered,1,output,28,ok,674
+Bengal_108,128,context,1,output,28,ok,674
+Bengal_108,256,ordered,1,output,60,ok,282
+Bengal_108,256,context,1,output,60,ok,282
+Bengal_108,512,ordered,1,output,124,ok,181
+Bengal_108,512,context,1,output,124,ok,181
+Bengal_148,128,ordered,1,output,28,ok,175
+Bengal_148,128,context,1,output,28,ok,175
+Bengal_148,256,ordered,1,output,60,ok,121
+Bengal_148,256,context,1,output,60,ok,121
+Bengal_148,512,ordered,1,output,124,ok,51
+Bengal_148,512,context,1,output,124,ok,51
+British_Shorthair_189,128,ordered,1,output,28,ok,697
+British_Shorthair_189,128,context,1,output,28,ok,697
+British_Shorthair_189,256,ordered,1,output,60,ok,351
+British_Shorthair_189,256,context,1,output,60,ok,351
+British_Shorthair_189,512,ordered,1,output,124,ok,218
+British_Shorthair_189,512,context,1,output,124,ok,218
+British_Shorthair_187,128,ordered,1,output,28,ok,2251
+British_Shorthair_187,128,context,1,output,28,ok,2251
+British_Shorthair_187,256,ordered,1,output,60,ok,775
+British_Shorthair_187,256,context,1,output,60,ok,775
+British_Shorthair_187,512,ordered,1,output,124,ok,237
+British_Shorthair_187,512,context,1,output,124,ok,237
+British_Shorthair_204,128,ordered,1,output,[24 3],ok,2282
+British_Shorthair_204,128,context,1,output,[24 3],ok,2282
+British_Shorthair_204,256,ordered,1,output,[56 3],ok,501
+British_Shorthair_204,256,context,1,output,[56 3],ok,501
+British_Shorthair_204,512,ordered,1,output,[119 4],ok,252
+British_Shorthair_204,512,context,1,output,[119 4],ok,252
+Maine_Coon_109,128,ordered,1,output,28,ok,1200
+Maine_Coon_109,128,context,1,output,28,ok,1200
+Maine_Coon_109,256,ordered,1,output,60,ok,396
+Maine_Coon_109,256,context,1,output,60,ok,396
+Maine_Coon_109,512,ordered,1,output,124,ok,285
+Maine_Coon_109,512,context,1,output,124,ok,285
+Maine_Coon_139,128,ordered,1,output,[22 5],ok,1863
+Maine_Coon_139,128,context,1,output,[22 5],ok,1863
+Maine_Coon_139,256,ordered,1,output,[47 12],ok,462
+Maine_Coon_139,256,context,1,output,[47 12],ok,462
+Maine_Coon_139,512,ordered,1,output,[94 29],ok,191
+Maine_Coon_139,512,context,1,output,[94 29],ok,191
+Maine_Coon_123,128,ordered,1,output,28,ok,561
+Maine_Coon_123,128,context,1,output,28,ok,561
+Maine_Coon_123,256,ordered,1,output,60,ok,286
+Maine_Coon_123,256,context,1,output,60,ok,286
+Maine_Coon_123,512,ordered,1,output,124,ok,162
+Maine_Coon_123,512,context,1,output,124,ok,162
+Sphynx_17,128,ordered,1,output,28,ok,1852
+Sphynx_17,128,context,1,output,28,ok,1852
+Sphynx_17,256,ordered,1,output,60,ok,516
+Sphynx_17,256,context,1,output,60,ok,516
+Sphynx_17,512,ordered,1,output,124,ok,333
+Sphynx_17,512,context,1,output,124,ok,333
+Sphynx_110,128,ordered,1,output,28,ok,1698
+Sphynx_110,128,context,1,output,28,ok,1698
+Sphynx_110,256,ordered,1,output,60,ok,759
+Sphynx_110,256,context,1,output,60,ok,759
+Sphynx_110,512,ordered,1,output,124,ok,293
+Sphynx_110,512,context,1,output,124,ok,293
+Sphynx_103,128,ordered,1,output,28,ok,1516
+Sphynx_103,128,context,1,output,28,ok,1516
+Sphynx_103,256,ordered,1,output,60,ok,509
+Sphynx_103,256,context,1,output,60,ok,509
+Sphynx_103,512,ordered,1,output,124,ok,212
+Sphynx_103,512,context,1,output,124,ok,212
+american_pit_bull_terrier_148,128,ordered,1,output,[23 4],digital_counts,1490
+american_pit_bull_terrier_148,128,ordered,2,output,[24 3],digital_counts,1512
+american_pit_bull_terrier_148,128,ordered,3,output,[22 5],digital_counts,1560
+american_pit_bull_terrier_148,128,ordered,4,output,[21 6],digital_counts,1641
+american_pit_bull_terrier_148,128,ordered,5,output,[20 7],digital_counts,1827
+american_pit_bull_terrier_148,128,ordered,6,output,[19 8],digital_counts,1954
+american_pit_bull_terrier_148,128,ordered,7,output,[18 9],digital_counts,2065
+american_pit_bull_terrier_148,128,ordered,8,output,[17 10],digital_counts,2301
+american_pit_bull_terrier_148,128,ordered,9,output,[16 11],digital_counts,2761
+american_pit_bull_terrier_148,128,ordered,10,output,[15 12],digital_counts,2824
+american_pit_bull_terrier_148,128,ordered,11,output,[13 14],digital_counts,2858
+american_pit_bull_terrier_148,128,ordered,12,output,[12 15],digital_counts,3267
+american_pit_bull_terrier_148,128,ordered,13,output,[11 16],digital_counts,3586
+american_pit_bull_terrier_148,128,ordered,14,output,[10 17],ok,4045
+american_pit_bull_terrier_148,128,context,1,output,[23 4],digital_counts,1490
+american_pit_bull_terrier_148,128,context,2,one_ring_in_exact_context,[452 4],ok,49
+american_pit_bull_terrier_148,128,context,3,one_ring_in_exact_context,[23 30],digital_counts,1441
+american_pit_bull_terrier_148,128,context,4,output,[24 3],digital_counts,1512
+american_pit_bull_terrier_148,128,context,5,one_ring_in_exact_context,[452 3],ok,83
+american_pit_bull_terrier_148,128,context,6,one_ring_in_exact_context,[24 30],digital_counts,1429
+american_pit_bull_terrier_148,128,context,7,output,[22 5],digital_counts,1560
+american_pit_bull_terrier_148,128,context,8,one_ring_in_exact_context,[452 5],ok,26
+american_pit_bull_terrier_148,128,context,9,one_ring_in_exact_context,[22 30],digital_counts,1534
+american_pit_bull_terrier_148,128,context,10,output,[21 6],digital_counts,1641
+american_pit_bull_terrier_148,128,context,11,one_ring_in_exact_context,[21 30],digital_counts,1624
+american_pit_bull_terrier_148,128,context,12,one_ring_in_exact_context,[452 6],ok,17
+american_pit_bull_terrier_148,128,context,13,output,[20 7],digital_counts,1827
+american_pit_bull_terrier_148,128,context,14,output,[19 8],digital_counts,1954
+american_pit_bull_terrier_148,128,context,15,output,[18 9],digital_counts,2065
+american_pit_bull_terrier_148,128,context,16,output,[17 10],digital_counts,2301
+american_pit_bull_terrier_148,128,context,17,output,[16 11],digital_counts,2761
+american_pit_bull_terrier_148,128,context,18,output,[15 12],digital_counts,2824
+american_pit_bull_terrier_148,128,context,19,output,[13 14],digital_counts,2858
+american_pit_bull_terrier_148,128,context,20,output,[12 15],digital_counts,3267
+american_pit_bull_terrier_148,128,context,21,output,[11 16],digital_counts,3586
+american_pit_bull_terrier_148,128,context,22,output,[10 17],ok,4045
+american_pit_bull_terrier_148,256,ordered,1,output,[54 5],ok,474
+american_pit_bull_terrier_148,256,context,1,output,[54 5],ok,474
+american_pit_bull_terrier_148,512,ordered,1,output,[111 12],ok,246
+american_pit_bull_terrier_148,512,context,1,output,[111 12],ok,246
+american_pit_bull_terrier_12,128,ordered,1,output,[7 7 4 3 3],ok,2709
+american_pit_bull_terrier_12,128,context,1,output,[7 7 4 3 3],ok,2709
+american_pit_bull_terrier_12,256,ordered,1,output,[28 12 9 4 3],ok,627
+american_pit_bull_terrier_12,256,context,1,output,[28 12 9 4 3],ok,627
+american_pit_bull_terrier_12,512,ordered,1,output,[57 38 12 5 8],ok,220
+american_pit_bull_terrier_12,512,context,1,output,[57 38 12 5 8],ok,220
+american_pit_bull_terrier_15,128,ordered,1,output,28,digital_counts,1936
+american_pit_bull_terrier_15,128,context,1,output,28,digital_counts,1936
+american_pit_bull_terrier_15,128,context,2,one_ring_in_exact_context,28,digital_counts,1936
+american_pit_bull_terrier_15,256,ordered,1,output,60,ok,598
+american_pit_bull_terrier_15,256,context,1,output,60,ok,598
+american_pit_bull_terrier_15,512,ordered,1,output,124,ok,226
+american_pit_bull_terrier_15,512,context,1,output,124,ok,226
+english_cocker_spaniel_143,128,ordered,1,output,[20 7],ok,1834
+english_cocker_spaniel_143,128,context,1,output,[20 7],ok,1834
+english_cocker_spaniel_143,256,ordered,1,output,[47 12],ok,709
+english_cocker_spaniel_143,256,context,1,output,[47 12],ok,709
+english_cocker_spaniel_143,512,ordered,1,output,[96 27],ok,291
+english_cocker_spaniel_143,512,context,1,output,[96 27],ok,291
+english_cocker_spaniel_171,128,ordered,1,output,28,ok,1512
+english_cocker_spaniel_171,128,context,1,output,28,ok,1512
+english_cocker_spaniel_171,256,ordered,1,output,60,ok,431
+english_cocker_spaniel_171,256,context,1,output,60,ok,431
+english_cocker_spaniel_171,512,ordered,1,output,124,ok,169
+english_cocker_spaniel_171,512,context,1,output,124,ok,169
+english_cocker_spaniel_111,128,ordered,1,output,28,ok,1149
+english_cocker_spaniel_111,128,context,1,output,28,ok,1149
+english_cocker_spaniel_111,256,ordered,1,output,60,ok,467
+english_cocker_spaniel_111,256,context,1,output,60,ok,467
+english_cocker_spaniel_111,512,ordered,1,output,124,ok,204
+english_cocker_spaniel_111,512,context,1,output,124,ok,204
+newfoundland_147,128,ordered,1,output,28,ok,1047
+newfoundland_147,128,context,1,output,28,ok,1047
+newfoundland_147,256,ordered,1,output,60,ok,376
+newfoundland_147,256,context,1,output,60,ok,376
+newfoundland_147,512,ordered,1,output,124,ok,131
+newfoundland_147,512,context,1,output,124,ok,131
+newfoundland_16,128,ordered,1,output,28,ok,1032
+newfoundland_16,128,context,1,output,28,ok,1032
+newfoundland_16,256,ordered,1,output,60,ok,436
+newfoundland_16,256,context,1,output,60,ok,436
+newfoundland_16,512,ordered,1,output,124,ok,230
+newfoundland_16,512,context,1,output,124,ok,230
+newfoundland_103,128,ordered,1,output,28,ok,607
+newfoundland_103,128,context,1,output,28,ok,607
+newfoundland_103,256,ordered,1,output,60,ok,278
+newfoundland_103,256,context,1,output,60,ok,278
+newfoundland_103,512,ordered,1,output,124,ok,150
+newfoundland_103,512,context,1,output,124,ok,150
+pomeranian_104,128,ordered,1,output,28,ok,1168
+pomeranian_104,128,context,1,output,28,ok,1168
+pomeranian_104,256,ordered,1,output,60,ok,426
+pomeranian_104,256,context,1,output,60,ok,426
+pomeranian_104,512,ordered,1,output,124,ok,210
+pomeranian_104,512,context,1,output,124,ok,210
+pomeranian_123,128,ordered,1,output,28,ok,582
+pomeranian_123,128,context,1,output,28,ok,582
+pomeranian_123,256,ordered,1,output,60,ok,321
+pomeranian_123,256,context,1,output,60,ok,321
+pomeranian_123,512,ordered,1,output,124,ok,164
+pomeranian_123,512,context,1,output,124,ok,164
+pomeranian_10,128,ordered,1,output,28,ok,702
+pomeranian_10,128,context,1,output,28,ok,702
+pomeranian_10,256,ordered,1,output,60,ok,294
+pomeranian_10,256,context,1,output,60,ok,294
+pomeranian_10,512,ordered,1,output,124,ok,124
+pomeranian_10,512,context,1,output,124,ok,124
+pug_104,128,ordered,1,output,[19 8],ok,3998
+pug_104,128,context,1,output,[19 8],ok,3998
+pug_104,256,ordered,1,output,[46 13],ok,1354
+pug_104,256,context,1,output,[46 13],ok,1354
+pug_104,512,ordered,1,output,[85 38],ok,547
+pug_104,512,context,1,output,[85 38],ok,547
+pug_185,128,ordered,1,output,28,ok,275
+pug_185,128,context,1,output,28,ok,275
+pug_185,256,ordered,1,output,60,ok,204
+pug_185,256,context,1,output,60,ok,204
+pug_185,512,ordered,1,output,124,ok,31
+pug_185,512,context,1,output,124,ok,31
+pug_127,128,ordered,1,output,28,ok,1317
+pug_127,128,context,1,output,28,ok,1317
+pug_127,256,ordered,1,output,60,ok,399
+pug_127,256,context,1,output,60,ok,399
+pug_127,512,ordered,1,output,124,ok,230
+pug_127,512,context,1,output,124,ok,230
+shiba_inu_147,128,ordered,1,output,[8 3 3 3 3 3],digital_counts,16795
+shiba_inu_147,128,ordered,2,output,[7 3 3 4 3 3],digital_counts,19590
+shiba_inu_147,128,ordered,3,output,[7 3 3 3 3 4],digital_counts,19591
+shiba_inu_147,128,ordered,4,output,[7 3 3 3 4 3],digital_counts,19591
+shiba_inu_147,128,ordered,5,output,[7 4 3 3 3 3],digital_counts,19674
+shiba_inu_147,128,ordered,6,output,[5 3 6 3 3 3],digital_counts,19749
+shiba_inu_147,128,ordered,7,output,[5 3 5 4 3 3],digital_counts,19848
+shiba_inu_147,128,ordered,8,output,[5 3 5 3 3 4],digital_counts,19849
+shiba_inu_147,128,ordered,9,output,[5 3 5 3 4 3],digital_counts,19849
+shiba_inu_147,128,ordered,10,output,[5 4 5 3 3 3],digital_counts,19932
+shiba_inu_147,128,ordered,11,output,[5 6 3 3 3 3],digital_counts,20141
+shiba_inu_147,128,ordered,12,output,[5 5 3 4 3 3],digital_counts,20362
+shiba_inu_147,128,ordered,13,output,[5 5 3 3 3 4],digital_counts,20363
+shiba_inu_147,128,ordered,14,output,[5 5 3 3 4 3],digital_counts,20363
+shiba_inu_147,128,ordered,15,output,[5 3 3 4 4 4],digital_counts,20365
+shiba_inu_147,128,ordered,16,output,[5 4 3 4 3 4],digital_counts,20448
+shiba_inu_147,128,ordered,17,output,[5 4 3 4 4 3],digital_counts,20448
+shiba_inu_147,128,ordered,18,output,[5 4 3 3 4 4],digital_counts,20449
+shiba_inu_147,128,ordered,19,output,[4 3 7 3 3 3],digital_counts,23188
+shiba_inu_147,128,ordered,20,output,[4 3 6 4 3 3],digital_counts,23218
+shiba_inu_147,128,ordered,21,output,[4 3 6 3 3 4],digital_counts,23219
+shiba_inu_147,128,ordered,22,output,[4 3 6 3 4 3],digital_counts,23219
+shiba_inu_147,128,ordered,23,output,[4 4 6 3 3 3],digital_counts,23302
+shiba_inu_147,128,ordered,24,output,[4 5 5 3 3 3],digital_counts,23316
+shiba_inu_147,128,ordered,25,output,[4 3 5 4 3 4],digital_counts,23318
+shiba_inu_147,128,ordered,26,output,[4 3 5 4 4 3],digital_counts,23318
+shiba_inu_147,128,ordered,27,output,[4 3 5 3 4 4],digital_counts,23319
+shiba_inu_147,128,ordered,28,output,[4 4 5 4 3 3],digital_counts,23401
+shiba_inu_147,128,ordered,29,output,[4 4 5 3 3 4],digital_counts,23402
+shiba_inu_147,128,ordered,30,output,[4 4 5 3 4 3],digital_counts,23402
+shiba_inu_147,128,ordered,31,output,[4 7 3 3 3 3],ok,23443
+shiba_inu_147,128,context,1,output,[8 3 3 3 3 3],digital_counts,16795
+shiba_inu_147,128,context,2,one_ring_in_exact_context,[648 120 3 4 4 4],ok,1153
+shiba_inu_147,128,context,3,one_ring_in_exact_context,[648 120 97 3 4 4],ok,1
+shiba_inu_147,128,context,4,one_ring_in_exact_context,[648 3 97 4 4 4],digital_counts,798
+shiba_inu_147,128,context,5,one_ring_in_exact_context,[8 120 97 4 4 4],digital_counts,14843
+shiba_inu_147,128,context,6,one_ring_in_exact_context,[648 120 97 4 3 4],ok,0
+shiba_inu_147,128,context,7,one_ring_in_exact_context,[648 120 97 4 4 3],ok,0
+shiba_inu_147,128,context,8,output,[7 4 3 3 3 3],digital_counts,19674
+shiba_inu_147,128,context,9,one_ring_in_exact_context,[648 120 3 4 4 4],ok,1153
+shiba_inu_147,128,context,10,one_ring_in_exact_context,[648 120 97 3 4 4],ok,1
+shiba_inu_147,128,context,11,one_ring_in_exact_context,[648 4 97 4 4 4],digital_counts,881
+shiba_inu_147,128,context,12,one_ring_in_exact_context,[7 120 97 4 4 4],digital_counts,17639
+shiba_inu_147,128,context,13,one_ring_in_exact_context,[648 120 97 4 3 4],ok,0
+shiba_inu_147,128,context,14,one_ring_in_exact_context,[648 120 97 4 4 3],ok,0
+shiba_inu_147,128,context,15,output,[5 6 3 3 3 3],digital_counts,20141
+shiba_inu_147,128,context,16,one_ring_in_exact_context,[648 120 3 4 4 4],ok,1153
+shiba_inu_147,128,context,17,one_ring_in_exact_context,[648 120 97 3 4 4],ok,1
+shiba_inu_147,128,context,18,one_ring_in_exact_context,[648 6 97 4 4 4],digital_counts,573
+shiba_inu_147,128,context,19,one_ring_in_exact_context,[5 120 97 4 4 4],ok,18414
+shiba_inu_147,128,context,20,one_ring_in_exact_context,[648 120 97 4 3 4],ok,0
+shiba_inu_147,128,context,21,one_ring_in_exact_context,[648 120 97 4 4 3],ok,0
+shiba_inu_147,128,context,22,output,[5 5 3 4 3 3],digital_counts,20362
+shiba_inu_147,128,context,23,one_ring_in_exact_context,[648 120 3 4 4 4],ok,1153
+shiba_inu_147,128,context,24,one_ring_in_exact_context,[648 5 97 4 4 4],digital_counts,795
+shiba_inu_147,128,context,25,one_ring_in_exact_context,[5 120 97 4 4 4],ok,18414
+shiba_inu_147,128,context,26,one_ring_in_exact_context,[648 120 97 4 3 4],ok,0
+shiba_inu_147,128,context,27,one_ring_in_exact_context,[648 120 97 4 4 3],ok,0
+shiba_inu_147,128,context,28,output,[4 7 3 3 3 3],ok,23443
+shiba_inu_147,256,ordered,1,output,[31 8 7 3 3 3],ok,4112
+shiba_inu_147,256,context,1,output,[31 8 7 3 3 3],ok,4112
+shiba_inu_147,512,ordered,1,output,[81 13 16 3 3 3],ok,1088
+shiba_inu_147,512,context,1,output,[81 13 16 3 3 3],ok,1088
+shiba_inu_142,128,ordered,1,output,[11 4 7 3],digital_counts,5269
+shiba_inu_142,128,ordered,2,output,[12 4 6 3],digital_counts,5343
+shiba_inu_142,128,ordered,3,output,[11 4 6 4],digital_counts,5896
+shiba_inu_142,128,ordered,4,output,[13 4 5 3],digital_counts,5911
+shiba_inu_142,128,ordered,5,output,[8 4 10 3],ok,6118
+shiba_inu_142,128,context,1,output,[11 4 7 3],digital_counts,5269
+shiba_inu_142,128,context,2,one_ring_in_exact_context,[11 115 188 20],digital_counts,2698
+shiba_inu_142,128,context,3,one_ring_in_exact_context,[278 115 7 20],ok,1625
+shiba_inu_142,128,context,4,one_ring_in_exact_context,[278 115 188 3],ok,22
+shiba_inu_142,128,context,5,one_ring_in_exact_context,[278 4 188 20],ok,924
+shiba_inu_142,128,context,6,output,[12 4 6 3],digital_counts,5343
+shiba_inu_142,128,context,7,one_ring_in_exact_context,[278 115 6 20],ok,2266
+shiba_inu_142,128,context,8,one_ring_in_exact_context,[12 115 188 20],digital_counts,2131
+shiba_inu_142,128,context,9,one_ring_in_exact_context,[278 115 188 3],ok,22
+shiba_inu_142,128,context,10,one_ring_in_exact_context,[278 4 188 20],ok,924
+shiba_inu_142,128,context,11,output,[13 4 5 3],digital_counts,5911
+shiba_inu_142,128,context,12,one_ring_in_exact_context,[278 115 5 20],ok,3195
+shiba_inu_142,128,context,13,one_ring_in_exact_context,[278 115 188 3],ok,22
+shiba_inu_142,128,context,14,one_ring_in_exact_context,[13 115 188 20],digital_counts,1770
+shiba_inu_142,128,context,15,one_ring_in_exact_context,[278 4 188 20],ok,924
+shiba_inu_142,128,context,16,output,[8 4 10 3],ok,6118
+shiba_inu_142,256,ordered,1,output,[23 14 17 3],ok,1299
+shiba_inu_142,256,context,1,output,[23 14 17 3],ok,1299
+shiba_inu_142,512,ordered,1,output,[45 26 46 4],ok,486
+shiba_inu_142,512,context,1,output,[45 26 46 4],ok,486
+shiba_inu_173,128,ordered,1,output,[8 3 3 3 3 3],ok,2135
+shiba_inu_173,128,context,1,output,[8 3 3 3 3 3],ok,2135
+shiba_inu_173,256,ordered,1,output,[35 6 5 3 3 3],ok,314
+shiba_inu_173,256,context,1,output,[35 6 5 3 3 3],ok,314
+shiba_inu_173,512,ordered,1,output,[81 11 7 14 3 3],ok,128
+shiba_inu_173,512,context,1,output,[81 11 7 14 3 3],ok,128
+staffordshire_bull_terrier_195,128,ordered,1,output,28,ok,1913
+staffordshire_bull_terrier_195,128,context,1,output,28,ok,1913
+staffordshire_bull_terrier_195,256,ordered,1,output,60,ok,770
+staffordshire_bull_terrier_195,256,context,1,output,60,ok,770
+staffordshire_bull_terrier_195,512,ordered,1,output,124,ok,316
+staffordshire_bull_terrier_195,512,context,1,output,124,ok,316
+staffordshire_bull_terrier_130,128,ordered,1,output,28,ok,594
+staffordshire_bull_terrier_130,128,context,1,output,28,ok,594
+staffordshire_bull_terrier_130,256,ordered,1,output,60,ok,240
+staffordshire_bull_terrier_130,256,context,1,output,60,ok,240
+staffordshire_bull_terrier_130,512,ordered,1,output,124,ok,50
+staffordshire_bull_terrier_130,512,context,1,output,124,ok,50
+staffordshire_bull_terrier_198,128,ordered,1,output,28,ok,1593
+staffordshire_bull_terrier_198,128,context,1,output,28,ok,1593
+staffordshire_bull_terrier_198,256,ordered,1,output,60,ok,483
+staffordshire_bull_terrier_198,256,context,1,output,60,ok,483
+staffordshire_bull_terrier_198,512,ordered,1,output,124,ok,215
+staffordshire_bull_terrier_198,512,context,1,output,124,ok,215
+yorkshire_terrier_138,128,ordered,1,output,28,ok,1088
+yorkshire_terrier_138,128,context,1,output,28,ok,1088
+yorkshire_terrier_138,256,ordered,1,output,60,ok,442
+yorkshire_terrier_138,256,context,1,output,60,ok,442
+yorkshire_terrier_138,512,ordered,1,output,124,ok,235
+yorkshire_terrier_138,512,context,1,output,124,ok,235
+yorkshire_terrier_135,128,ordered,1,output,28,ok,268
+yorkshire_terrier_135,128,context,1,output,28,ok,268
+yorkshire_terrier_135,256,ordered,1,output,60,ok,138
+yorkshire_terrier_135,256,context,1,output,60,ok,138
+yorkshire_terrier_135,512,ordered,1,output,124,ok,54
+yorkshire_terrier_135,512,context,1,output,124,ok,54
+yorkshire_terrier_106,128,ordered,1,output,[21 6],ok,2324
+yorkshire_terrier_106,128,context,1,output,[21 6],ok,2324
+yorkshire_terrier_106,256,ordered,1,output,[40 19],ok,713
+yorkshire_terrier_106,256,context,1,output,[40 19],ok,713
+yorkshire_terrier_106,512,ordered,1,output,[96 27],ok,325
+yorkshire_terrier_106,512,context,1,output,[96 27],ok,325

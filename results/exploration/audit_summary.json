@@ -1,0 +1,27 @@
+{
+  "single_rows": 54,
+  "single_success": 54,
+  "pso_rows": 27,
+  "pso_success": 27,
+  "control_rows": 216,
+  "control_success": 216,
+  "allocation_rows": 108,
+  "repair_triggers": 4,
+  "legal_allocation_pairs": 13126,
+  "pair_rank_disagreements": 0,
+  "allocation_pool_success": 107,
+  "validated_dev_exteriors": 36,
+  "guard_comparable": 6,
+  "guard_bf2_violations": 0,
+  "guard_xor_increases": 0,
+  "historical_pol1_wire_matches": 54,
+  "historical_pol1_xor_matches": 54,
+  "historical_pso_wire_matches": 27,
+  "historical_pso_xor_matches": 27,
+  "old_shared_development_ids": [
+    "american_pit_bull_terrier_148",
+    "yorkshire_terrier_106",
+    "shiba_inu_142",
+    "Bengal_148"
+  ]
+}

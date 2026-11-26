@@ -1,0 +1,3 @@
+dataset,id,session,rep,budget,method,round,xor,nbytes,serialized_ms,received_ms,sha256,donor,receiver,deleted_x,deleted_y,inserted_x,inserted_y
+Oxford,Egyptian_Mau_2,1,1,256,cross,0,311,254,24.6399,24.6558,7b5515198c2cf60697290136a07f55130d4f50fab8c1eb7c93dabc51c9414f2d,NaN,NaN,NaN,NaN,NaN,NaN
+Oxford,Egyptian_Mau_2,1,1,256,cross,1,288,254,61.9152,61.9305,1fc56e97b05ce5cf1fac7c6360b604cc4f64a66c3e0575c9acbe3bc07334da3e,0,1,284,417,524,937

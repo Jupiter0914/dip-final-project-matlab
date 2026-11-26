@@ -1,0 +1,9 @@
+method,min_before_bytes,max_after_bytes,median_after_minus_before_bytes
+fast_cross,2680201216,2715267072,0
+fast_geom,2680201216,2715533312,0
+fast_geom_within,2680201216,2713509888,0
+fast_within,2680201216,2713509888,0
+old_cross,2680201216,2715533312,0
+old_geom,2680201216,2715533312,0
+old_geom_within,2680201216,2713509888,0
+old_within,2680201216,2715541504,0

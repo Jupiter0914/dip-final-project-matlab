@@ -1,0 +1,6 @@
+Name,Passed,Failed,Incomplete,Duration
+testCodec/testExhaustiveAndNamed,1,0,0,3.4223677
+testCodec/testHistoricalWire,1,0,0,0.3543316
+testCodec/testLineEightAndScanlines,1,0,0,0.1851913
+testCodec/testMalformedWire,1,0,0,0.1858765
+testCodec/testDevelopmentSources,1,0,0,0.6157112

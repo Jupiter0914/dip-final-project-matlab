@@ -1,0 +1,3 @@
+launch,pid,threads,launcher_to_function_ms,source_read_hash_ms,bwconncomp_first_ms,bwconncomp_second_ms,version,operating_system,cpu,memory_bytes,image_processing_toolbox,timing_start,timing_endpoint
+default,38308,24,5018.43896484375,275.8179,68.5478,1.4545,24.1.0.2537033 (R2024a),Windows NT 10.0.26100，PCWIN64,Intel Core Ultra 9 275HX,16489648128,24.1,in-memory binary mask,first instruction in synchronous receiver
+single,55380,1,5377.705078125,190.6886,27.9488,1.3902,24.1.0.2537033 (R2024a),Windows NT 10.0.26100，PCWIN64,Intel Core Ultra 9 275HX,16489648128,24.1,in-memory binary mask,first instruction in synchronous receiver

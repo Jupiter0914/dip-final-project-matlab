@@ -1,0 +1,7 @@
+method,calls,timely
+fast_cross,1200,1177
+fast_geom,1200,1146
+fast_geom_within,1200,1146
+fast_within,1200,1180
+old_cross,1200,1174
+old_within,1200,1181

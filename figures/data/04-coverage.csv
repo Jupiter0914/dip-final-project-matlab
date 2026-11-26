@@ -1,0 +1,13 @@
+dataset,budget,deadline,method,n_sources,rate,ever,always
+Oxford,256,100,cross,200,0.945833333333333,192,181
+Oxford,256,100,exact,24,0.944444444444445,23,22
+Oxford,256,100,matlab_geom,200,0.95,190,190
+Oxford,256,100,matlab_geom_within,200,0.95,190,190
+Oxford,256,100,seed,200,0.945833333333333,192,181
+Oxford,256,100,within_full,200,0.945,192,180
+LEMS,256,100,cross,100,0.88,88,88
+LEMS,256,100,exact,24,0.791666666666667,19,19
+LEMS,256,100,matlab_geom,100,0.85,85,85
+LEMS,256,100,matlab_geom_within,100,0.85,85,85
+LEMS,256,100,seed,100,0.88,88,88
+LEMS,256,100,within_full,100,0.88,88,88

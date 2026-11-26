@@ -1,0 +1,11 @@
+group,baseline,multi_sources,paired,mean_xor_gain,wins,ties,losses
+1,within_old,10,10,20.4,5,5,0
+1,within_full_oldtri,10,10,20.3,5,5,0
+1,within_full,10,10,20.3,5,5,0
+1,cross_oldtri,10,10,0,0,10,0
+1,cross_full_oldtri,10,10,0,0,10,0
+2,within_old,3,3,16.6666666666667,1,2,0
+2,within_full_oldtri,3,3,16.6666666666667,1,2,0
+2,within_full,3,3,16.6666666666667,1,2,0
+2,cross_oldtri,3,3,0,0,3,0
+2,cross_full_oldtri,3,3,0,0,3,0

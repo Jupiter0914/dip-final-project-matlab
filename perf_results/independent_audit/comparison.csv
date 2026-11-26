@@ -1,0 +1,15 @@
+claim_field,max_abs_diff,match
+fixed_cross_ratio,2.22044604925031e-16,1
+A_ci95,1.66533453693773e-16,1
+A_ci975,4.44089209850063e-16,1
+quality_sources,0,1
+quality_pairs,0,1
+mean_xor_gain,2.22044604925031e-16,1
+B_ci95,4.44089209850063e-15,1
+B_ci975,2.22044604925031e-15,1
+coverage_difference,0,1
+coverage_ci95,3.25260651745651e-18,1
+all_three_sessions_positive,0,1
+all_leave_one_out_positive,0,1
+A_supported,0,1
+B_supported,0,1

@@ -1,0 +1,6 @@
+dataset,id,session,rep,budget,method,round,received_ms,nbytes,xor,sha256
+Oxford,Egyptian_Mau_2,1,1,256,cross,0,24.6558,254,311,7b5515198c2cf60697290136a07f55130d4f50fab8c1eb7c93dabc51c9414f2d
+Oxford,Egyptian_Mau_2,1,1,256,cross,1,61.9305,254,288,1fc56e97b05ce5cf1fac7c6360b604cc4f64a66c3e0575c9acbe3bc07334da3e
+Oxford,Egyptian_Mau_2,1,1,256,cross,2,111.0495,254,277,43f5ea308a1f790abd24d2abc0e2903f63c4d91ae66c20624d4a5373636486a8
+Oxford,Egyptian_Mau_2,1,1,256,cross,3,154.3528,254,269,41104e9380b69c89521b6316ceddf30d8394d666a56a349580fece3a5e3a5aea
+Oxford,Egyptian_Mau_2,1,1,256,cross,4,202.7252,254,263,1dae12d1f1d4e483d5d3fe126ebc707654d3bc1da877a0b26cb3cfb053c48c6e

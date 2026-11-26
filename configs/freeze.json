@@ -1,0 +1,155 @@
+{
+  "scope": "public distribution integrity",
+  "measured_sha256": "808cdb6ca3bb1b3c0659a38e3e40c6aa3433d184fef2d261622c46e46401ce20",
+  "sha256": "523ecb1b3ec63324ab0ab0c78f3de100b9874e2bd54bef5c86bb597601232deb",
+  "files": [
+    {
+      "paths": "configs/confirm.json",
+      "hashes": "839e0d5903beeffc516997706f235eb8432f9c6d4eb83e9fa3a16aba61a46056"
+    },
+    {
+      "paths": "data/manifests/dev.csv",
+      "hashes": "770b1183582ccb23f17935b003b6e1f05e71d151b60543da70c8c4228747a6ed"
+    },
+    {
+      "paths": "data/manifests/frozen.csv",
+      "hashes": "775eb508815110ad4fb648c00688aed3b646ee47cd9b14a4fabd90d982600549"
+    },
+    {
+      "paths": "dip.m",
+      "hashes": "ba33dd550323585ba1594d6d37a2eb6176204d6e7eae87132b5aba7a2900ed00"
+    },
+    {
+      "paths": "docs/freeze_protocol.md",
+      "hashes": "4e6913bfb74a6d96912dc028a375249b7c37d0ea7eb355eb5023690212fd4e8a"
+    },
+    {
+      "paths": "scripts/run_confirm.m",
+      "hashes": "dcfaa3272e4cae99e2c46727b45fc3f8a0694ded4e0801638a0334956ea30787"
+    },
+    {
+      "paths": "scripts/run_smoke.m",
+      "hashes": "24cfe75c47b4b21d15a41fad2490b021da961056b5919a1367ef149e760b8889"
+    },
+    {
+      "paths": "scripts/run_supplements.m",
+      "hashes": "738957672488e300a243570f631a8c79155e54e6faef2e564f7f826b64f7e78c"
+    },
+    {
+      "paths": "src/allocation/allocateCounts.m",
+      "hashes": "a1f4c01bb828c7369faa87a2de5d22088034e4ece4d0905d1cd5d35698e0b486"
+    },
+    {
+      "paths": "src/allocation/allocationSeed.m",
+      "hashes": "d3872fae9a4417a9c65340862853c9e4632e617a79ae1852a16a7ae6bc458e98"
+    },
+    {
+      "paths": "src/allocation/prepareMask.m",
+      "hashes": "fc835bfca7293b51512c8a50d408e97d9ffdc0351a1082f329c8fec4366b4b98"
+    },
+    {
+      "paths": "src/allocation/ringHierarchy.m",
+      "hashes": "3d4a023bae70f146ead8d9fef3b3044837a16fa8dca768233e6bab00621eb723"
+    },
+    {
+      "paths": "src/allocation/validateState.m",
+      "hashes": "84b68025dcff22eacd8bcc7664e7cac3185759dd80a3c08dcd0eeb908af5254f"
+    },
+    {
+      "paths": "src/baselines/geometrySeed.m",
+      "hashes": "9ecfd5a4a69136d93b423c5fcec5ad7bb0c8bd0db7c206a3b99ae4c41031c373"
+    },
+    {
+      "paths": "src/codec/decodePM31.m",
+      "hashes": "74e228ac73a65592fc57cdafcd3834dc7d6eec6f5987c866eb5572410b9b6b9b"
+    },
+    {
+      "paths": "src/codec/packPM31.m",
+      "hashes": "2fa5145e54c56efd0687756c12de78d2a28990d2cae8e00af93d40eb9971f892"
+    },
+    {
+      "paths": "src/codec/pixelHash.m",
+      "hashes": "196e84d42ea1f299a180b4638492cf7fc98634e020fa3851d1ac45adc8e2a9b0"
+    },
+    {
+      "paths": "src/codec/readFrozenMask.m",
+      "hashes": "8f73d6c34e1747dc55997a2828517a372390c09935711465d6fd9cf3ff5b3a00"
+    },
+    {
+      "paths": "src/codec/sha256Bytes.m",
+      "hashes": "db3a4d17526f2874a4e18376d24896b360e655b4b2df2398a6fd59115194a92d"
+    },
+    {
+      "paths": "src/codec/supportedShape.m",
+      "hashes": "88f7c5bad869485057baceafb1d56f4e86eb26def9f087a26956c0f8a348daea"
+    },
+    {
+      "paths": "src/contours/extractRings.m",
+      "hashes": "67ff5f765eee9a45ef13548a6a0934447dbd4e96e6d1664d35bfaeb522dc2cc1"
+    },
+    {
+      "paths": "src/contours/rasterRing.m",
+      "hashes": "2227460705e651aba70ebb709b030269bde4add07b683a2a35fc135f138a35e7"
+    },
+    {
+      "paths": "src/contours/renderRings.m",
+      "hashes": "470f19bbd2f0c23b01518ff772eef861b39ce828cace980053250f1a1c1c351c"
+    },
+    {
+      "paths": "src/evaluation/buildSchedule.m",
+      "hashes": "891424909863b75e4741f17ca204a9b58d54b2aa7bf9d2881bb9be748a3d4fba"
+    },
+    {
+      "paths": "src/evaluation/freezeExperiment.m",
+      "hashes": "0fc52f3172e4979fa4ed92f02b4f153afb5c26b9878315c9d437c9722e600af3"
+    },
+    {
+      "paths": "src/evaluation/measureEncoding.m",
+      "hashes": "57a81b50194457c8d4dd61bd723b967d14c25829be6afb3288e9418e9e5fa7d9"
+    },
+    {
+      "paths": "src/evaluation/pairedStats.m",
+      "hashes": "dcd3409d10f85026f9a415dab0f3a25bba7fd3d36efffd071960612a42464a06"
+    },
+    {
+      "paths": "src/evaluation/pixelScores.m",
+      "hashes": "00bb5954d7193610317c12696829c3e8bfd3a183d210471cbeacdab05ef662b1"
+    },
+    {
+      "paths": "src/evaluation/readBytes.m",
+      "hashes": "f37a4d3e18b2b713c6254af6f97ac82a77b84a4e3b3368ed5e5f184ee1338dfc"
+    },
+    {
+      "paths": "src/evaluation/writeJson.m",
+      "hashes": "a16a06df4cf4793b66145d839e242a5866dcd9446923dcb8a7b743b7fdac2850"
+    },
+    {
+      "paths": "src/optimization/exchangeStep.m",
+      "hashes": "3b4168ece5426a5f5b72dea8c534fc65406104262617b96596d49792bee09e28"
+    },
+    {
+      "paths": "src/optimization/moveCandidates.m",
+      "hashes": "1da8dc34e3599fc80803500ce71b74b9416519f5ed48d722b04b6931be21a55e"
+    },
+    {
+      "paths": "src/optimization/replaceVertex.m",
+      "hashes": "567bdb81b0968eed985dda295a6d250bc119f1ab6a65aac4c7d5f1906956fc96"
+    },
+    {
+      "paths": "src/topology/digitalLayout.m",
+      "hashes": "fb89cc26311f78010cf1705e72c10bbaea5b78b58a0d32c926484ef803cb4c94"
+    },
+    {
+      "paths": "src/topology/geometryTree.m",
+      "hashes": "645a5777e50703dcb799edebd5ec317236ba4505472d574629f9e940c912cadf"
+    },
+    {
+      "paths": "src/topology/structureMatch.m",
+      "hashes": "bc228b32face504cf701e0969c062e10f07a00166dce72e9b8b9a2ecb85f143b"
+    },
+    {
+      "paths": "src/topology/vectorCheck.m",
+      "hashes": "0baa0fd2c66ad892f0418c18948fd64e8febfd392500962d07ec173e01d0333f"
+    }
+  ]
+}

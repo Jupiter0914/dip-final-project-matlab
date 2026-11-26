@@ -1,0 +1,14 @@
+{
+  "reference": "8b5835a415f1224076e318229f829b0856d5266e",
+  "branch": "perf/exact-evaluation-v1",
+  "preregistration": "f62bcb8c58d96bd44228ee7e52bc4a57e5011728",
+  "engineering_decision_commit": "2a6358b7e021a456465ae2e884ee1383ed5bfc29",
+  "selected_raw_sha256": "d1e54cd76d397da5ad64bd7303d3aa48b330f19cc35d539edccfe26d9e5b7b44",
+  "formal_commit": "c790f35de421be7c8231e35d8ca0bd2bf1d0fadb",
+  "formal_digest": "6e0d88c77b59d557b0a6ac50893a75b72c5f013d713c7b4007a973685ab91be1",
+  "locked_files": 104,
+  "timed_calls": 7200,
+  "deadline_observations": 14400,
+  "fixed_calls": 1152,
+  "frozen_positions": 8352
+}

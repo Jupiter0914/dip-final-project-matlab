@@ -1,0 +1,8 @@
+id,caption,png,svg,status,evidence
+algorithm-flow,合法文件的同步交付、判断分支与优化循环,figures/algorithm-flow.png,figures/algorithm-flow.svg,generated,scripts/draw_algorithm_flow.m
+01-encoding,编码步骤及一条实际跨圈方法接收时间线,figures/01-encoding.png,figures/01-encoding.svg,generated,figures/data/01-encoding.csv
+02-exchange,一次真实跨圈动作的前后轮廓、错分和码长,figures/02-exchange.png,figures/02-exchange.svg,generated,figures/data/02-exchange.csv + figures/data/case02
+03-source-effects,不同来源的逐源差及独立会话结果,figures/03-source-effects.png,figures/03-source-effects.svg,generated,figures/data/03-source-effects.csv + 03-session-intervals.csv
+04-coverage-comparators,各方法按时交付率与Oxford配对错分差,figures/04-coverage-comparators.png,figures/04-coverage-comparators.svg,generated,figures/data/04-coverage.csv + 04-comparators.csv
+05-structure,结构恢复的误差代价及一个匹配孔的变化,figures/05-structure.png,figures/05-structure.svg,generated,figures/data/05-repair.csv + 05-hole.csv + case05
+06-cases,按源均差选择的正改善、近零与最差源及其配对文件,figures/06-cases.png,figures/06-cases.svg,generated,figures/data/06-case-selection.csv + 06-cases.csv + case06*

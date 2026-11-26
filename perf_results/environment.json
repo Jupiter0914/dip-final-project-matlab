@@ -1,0 +1,10 @@
+{
+  "cpu": "Intel(R) Core(TM) Ultra 9 275HX",
+  "cores": 24,
+  "logical_processors": 24,
+  "os": "Microsoft Windows 11 家庭版 中文版",
+  "os_version": "10.0.26100",
+  "physical_bytes": 16489648128,
+  "qpc_hz": 10000000,
+  "recorded_utc": "2026-11-23T12:52:19.3369067+00:00"
+}

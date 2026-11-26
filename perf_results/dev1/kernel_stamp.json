@@ -1,0 +1,18 @@
+{
+  "label": "dev1",
+  "files": [
+    {
+      "path": "performance/kernel/efCandidates.m",
+      "sha256": "80d6dacac10c93695ffcf074a1782e062765b975082fdff966548949d8510cd2"
+    },
+    {
+      "path": "performance/kernel/efMeasure.m",
+      "sha256": "ba8c6b0d5a9abe6ab65f45a5f575e72bc9e4b399382a74a012a91b9006332ee6"
+    },
+    {
+      "path": "performance/kernel/efStep.m",
+      "sha256": "60caa598f6f59fe18d348c8e24072609e20bb172aa23b8aca704653291a84072"
+    }
+  ],
+  "reference_entry": "57a81b50194457c8d4dd61bd723b967d14c25829be6afb3288e9418e9e5fa7d9"
+}

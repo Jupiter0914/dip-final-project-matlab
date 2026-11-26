@@ -1,0 +1,17 @@
+/data/dev/
+/data/exact_fast/
+/data/poly04/
+/local/
+/results/sessions/
+/perf_results/*/S[1-3]/
+/report/
+*.doc
+*.docx
+*.docm
+*.pdf
+*.zip
+*.zip.sha256
+*.asv
+*.log
+*.part
+~$*

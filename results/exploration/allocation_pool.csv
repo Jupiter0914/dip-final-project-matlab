@@ -1,0 +1,992 @@
+id,budget,rank,counts,additive,xor,reason
+Bengal_187,128,1,28,1227,1227,ok
+Bengal_187,256,1,60,412,412,ok
+Bengal_187,512,1,124,206,206,ok
+Bengal_108,128,1,28,674,674,ok
+Bengal_108,256,1,60,282,282,ok
+Bengal_108,512,1,124,181,181,ok
+Bengal_148,128,1,28,175,175,ok
+Bengal_148,256,1,60,121,121,ok
+Bengal_148,512,1,124,51,51,ok
+British_Shorthair_189,128,1,28,697,697,ok
+British_Shorthair_189,256,1,60,351,351,ok
+British_Shorthair_189,512,1,124,218,218,ok
+British_Shorthair_187,128,1,28,2251,2251,ok
+British_Shorthair_187,256,1,60,775,775,ok
+British_Shorthair_187,512,1,124,237,237,ok
+British_Shorthair_204,128,1,[24 3],2282,2282,ok
+British_Shorthair_204,128,2,[23 4],2391,2391,ok
+British_Shorthair_204,128,3,[22 5],2865,2865,ok
+British_Shorthair_204,128,4,[21 6],3206,3206,ok
+British_Shorthair_204,256,1,[56 3],501,501,ok
+British_Shorthair_204,256,2,[53 6],511,511,ok
+British_Shorthair_204,256,3,[54 5],514,514,ok
+British_Shorthair_204,256,4,[55 4],527,527,ok
+British_Shorthair_204,512,1,[119 4],252,252,ok
+British_Shorthair_204,512,2,[118 5],260,260,ok
+British_Shorthair_204,512,3,[117 6],269,269,ok
+British_Shorthair_204,512,4,[120 3],273,273,ok
+Maine_Coon_109,128,1,28,1200,1200,ok
+Maine_Coon_109,256,1,60,396,396,ok
+Maine_Coon_109,512,1,124,285,285,ok
+Maine_Coon_139,128,1,[22 5],1863,1863,ok
+Maine_Coon_139,128,2,[21 6],1876,1876,ok
+Maine_Coon_139,128,3,[23 4],1923,1923,ok
+Maine_Coon_139,128,4,[19 8],1946,1946,ok
+Maine_Coon_139,128,5,[20 7],1980,1980,ok
+Maine_Coon_139,128,6,[24 3],2051,2051,ok
+Maine_Coon_139,128,7,[18 9],2095,2095,ok
+Maine_Coon_139,128,8,[16 11],2173,2173,ok
+Maine_Coon_139,128,9,[15 12],2189,2189,ok
+Maine_Coon_139,128,10,[17 10],2226,2226,ok
+Maine_Coon_139,128,11,[14 13],2687,2687,ok
+Maine_Coon_139,128,12,[11 16],2948,2948,ok
+Maine_Coon_139,128,13,[10 17],3055,3053,ring_boundaries_meet
+Maine_Coon_139,128,14,[13 14],3118,3118,ok
+Maine_Coon_139,128,15,[8 19],3372,3370,ring_boundaries_meet
+Maine_Coon_139,128,16,[12 15],3424,3424,ok
+Maine_Coon_139,128,17,[9 18],3569,3567,ring_boundaries_meet
+Maine_Coon_139,128,18,[7 20],4252,4250,ring_boundaries_meet
+Maine_Coon_139,128,19,[6 21],5999,5977,ring_boundaries_meet
+Maine_Coon_139,128,20,[5 22],7606,7594,ring_boundaries_meet
+Maine_Coon_139,128,21,[4 23],9893,9881,ring_boundaries_meet
+Maine_Coon_139,128,22,[3 24],18276,18264,ring_boundaries_meet
+Maine_Coon_139,256,1,[47 12],462,462,ok
+Maine_Coon_139,256,2,[50 9],485,485,ok
+Maine_Coon_139,256,3,[46 13],488,488,ok
+Maine_Coon_139,256,4,[43 16],489,489,ok
+Maine_Coon_139,256,5,[48 11],489,489,ok
+Maine_Coon_139,256,6,[49 10],489,489,ok
+Maine_Coon_139,256,7,[45 14],494,494,ok
+Maine_Coon_139,256,8,[51 8],507,507,ok
+Maine_Coon_139,256,9,[44 15],512,512,ok
+Maine_Coon_139,256,10,[42 17],520,520,ok
+Maine_Coon_139,256,11,[40 19],537,537,ok
+Maine_Coon_139,256,12,[41 18],552,552,ok
+Maine_Coon_139,256,13,[53 6],563,563,ok
+Maine_Coon_139,256,14,[52 7],567,567,ok
+Maine_Coon_139,256,15,[39 20],568,568,ok
+Maine_Coon_139,256,16,[37 22],596,596,ok
+Maine_Coon_139,256,17,[38 21],597,597,ok
+Maine_Coon_139,256,18,[36 23],601,601,ok
+Maine_Coon_139,256,19,[35 24],617,617,ok
+Maine_Coon_139,256,20,[34 25],659,659,ok
+Maine_Coon_139,256,21,[54 5],659,659,ok
+Maine_Coon_139,256,22,[55 4],681,681,ok
+Maine_Coon_139,256,23,[33 26],749,749,ok
+Maine_Coon_139,256,24,[32 27],783,783,ok
+Maine_Coon_139,256,25,[31 28],900,900,ok
+Maine_Coon_139,256,26,[56 3],936,936,ok
+Maine_Coon_139,256,27,[30 29],1005,1005,ok
+Maine_Coon_139,256,28,[28 31],1043,1043,ok
+Maine_Coon_139,256,29,[29 30],1076,1076,ok
+Maine_Coon_139,256,30,[27 32],1180,1180,ok
+Maine_Coon_139,256,31,[26 33],1402,1402,ok
+Maine_Coon_139,256,32,[24 35],1516,1516,ok
+Maine_Coon_139,256,33,[25 34],1551,1551,ok
+Maine_Coon_139,256,34,[22 37],1629,1629,ok
+Maine_Coon_139,256,35,[23 36],1640,1640,ok
+Maine_Coon_139,256,36,[21 38],1728,1728,ok
+Maine_Coon_139,256,37,[20 39],1840,1840,ok
+Maine_Coon_139,256,38,[19 40],1871,1871,ok
+Maine_Coon_139,256,39,[18 41],2034,2034,ok
+Maine_Coon_139,256,40,[17 42],2174,2174,ok
+Maine_Coon_139,512,1,[94 29],191,191,ok
+Maine_Coon_139,512,2,[97 26],191,191,ok
+Maine_Coon_139,512,3,[93 30],194,194,ok
+Maine_Coon_139,512,4,[100 23],195,195,ok
+Maine_Coon_139,512,5,[101 22],196,196,ok
+Maine_Coon_139,512,6,[92 31],197,197,ok
+Maine_Coon_139,512,7,[96 27],197,197,ok
+Maine_Coon_139,512,8,[99 24],197,197,ok
+Maine_Coon_139,512,9,[98 25],198,198,ok
+Maine_Coon_139,512,10,[95 28],199,199,ok
+Maine_Coon_139,512,11,[91 32],205,205,ok
+Maine_Coon_139,512,12,[102 21],205,205,ok
+Maine_Coon_139,512,13,[89 34],207,207,ok
+Maine_Coon_139,512,14,[87 36],210,210,ok
+Maine_Coon_139,512,15,[88 35],212,212,ok
+Maine_Coon_139,512,16,[90 33],212,212,ok
+Maine_Coon_139,512,17,[103 20],212,212,ok
+Maine_Coon_139,512,18,[86 37],214,214,ok
+Maine_Coon_139,512,19,[85 38],217,217,ok
+Maine_Coon_139,512,20,[104 19],226,226,ok
+Maine_Coon_139,512,21,[108 15],226,226,ok
+Maine_Coon_139,512,22,[111 12],227,227,ok
+Maine_Coon_139,512,23,[112 11],231,231,ok
+Maine_Coon_139,512,24,[84 39],233,233,ok
+Maine_Coon_139,512,25,[107 16],234,234,ok
+Maine_Coon_139,512,26,[105 18],238,238,ok
+Maine_Coon_139,512,27,[110 13],240,240,ok
+Maine_Coon_139,512,28,[113 10],240,240,ok
+Maine_Coon_139,512,29,[109 14],241,241,ok
+Maine_Coon_139,512,30,[106 17],242,242,ok
+Maine_Coon_139,512,31,[82 41],246,246,ok
+Maine_Coon_139,512,32,[114 9],247,247,ok
+Maine_Coon_139,512,33,[83 40],248,248,ok
+Maine_Coon_139,512,34,[81 42],256,256,ok
+Maine_Coon_139,512,35,[115 8],263,263,ok
+Maine_Coon_139,512,36,[80 43],267,267,ok
+Maine_Coon_139,512,37,[79 44],275,275,ok
+Maine_Coon_139,512,38,[116 7],327,327,ok
+Maine_Coon_139,512,39,[117 6],335,335,ok
+Maine_Coon_139,512,40,[120 3],717,717,ok
+Maine_Coon_123,128,1,28,561,561,ok
+Maine_Coon_123,256,1,60,286,286,ok
+Maine_Coon_123,512,1,124,162,162,ok
+Sphynx_17,128,1,28,1852,1852,ok
+Sphynx_17,256,1,60,516,516,ok
+Sphynx_17,512,1,124,333,333,ok
+Sphynx_110,128,1,28,1698,1698,ok
+Sphynx_110,256,1,60,759,759,ok
+Sphynx_110,512,1,124,293,293,ok
+Sphynx_103,128,1,28,1516,1516,ok
+Sphynx_103,256,1,60,509,509,ok
+Sphynx_103,512,1,124,212,212,ok
+american_pit_bull_terrier_148,128,1,[23 4],1490,1490,digital_counts
+american_pit_bull_terrier_148,128,2,[24 3],1512,1512,digital_counts
+american_pit_bull_terrier_148,128,3,[22 5],1560,1560,digital_counts
+american_pit_bull_terrier_148,128,4,[21 6],1641,1641,digital_counts
+american_pit_bull_terrier_148,128,5,[20 7],1827,1827,digital_counts
+american_pit_bull_terrier_148,128,6,[19 8],1954,1954,digital_counts
+american_pit_bull_terrier_148,128,7,[18 9],2065,2065,digital_counts
+american_pit_bull_terrier_148,128,8,[17 10],2301,2301,digital_counts
+american_pit_bull_terrier_148,128,9,[16 11],2761,2761,digital_counts
+american_pit_bull_terrier_148,128,10,[15 12],2824,2824,digital_counts
+american_pit_bull_terrier_148,128,11,[13 14],2858,2858,digital_counts
+american_pit_bull_terrier_148,128,12,[12 15],3267,3267,digital_counts
+american_pit_bull_terrier_148,128,13,[11 16],3586,3586,digital_counts
+american_pit_bull_terrier_148,128,14,[10 17],4045,4045,ok
+american_pit_bull_terrier_148,128,15,[6 21],4271,4271,ring_boundaries_meet
+american_pit_bull_terrier_148,128,16,[9 18],5109,5109,ok
+american_pit_bull_terrier_148,128,17,[7 20],5514,5514,ok
+american_pit_bull_terrier_148,128,18,[8 19],5934,5934,ok
+american_pit_bull_terrier_148,128,19,[3 24],6677,6677,ok
+american_pit_bull_terrier_148,128,20,[5 22],8987,8987,ok
+american_pit_bull_terrier_148,128,21,[4 23],10674,10674,ok
+american_pit_bull_terrier_148,256,1,[54 5],474,474,ok
+american_pit_bull_terrier_148,256,2,[52 7],478,478,ok
+american_pit_bull_terrier_148,256,3,[53 6],488,488,ok
+american_pit_bull_terrier_148,256,4,[55 4],493,493,ok
+american_pit_bull_terrier_148,256,5,[51 8],497,497,ok
+american_pit_bull_terrier_148,256,6,[50 9],511,511,ok
+american_pit_bull_terrier_148,256,7,[49 10],521,521,ok
+american_pit_bull_terrier_148,256,8,[56 3],544,544,ok
+american_pit_bull_terrier_148,256,9,[48 11],563,563,ok
+american_pit_bull_terrier_148,256,10,[46 13],571,571,ok
+american_pit_bull_terrier_148,256,11,[45 14],591,591,ok
+american_pit_bull_terrier_148,256,12,[47 12],593,593,ok
+american_pit_bull_terrier_148,256,13,[44 15],620,620,ok
+american_pit_bull_terrier_148,256,14,[43 16],621,621,ok
+american_pit_bull_terrier_148,256,15,[42 17],662,662,ok
+american_pit_bull_terrier_148,256,16,[41 18],702,702,ok
+american_pit_bull_terrier_148,256,17,[39 20],718,718,ok
+american_pit_bull_terrier_148,256,18,[38 21],719,719,ok
+american_pit_bull_terrier_148,256,19,[40 19],749,749,ok
+american_pit_bull_terrier_148,256,20,[36 23],787,787,ok
+american_pit_bull_terrier_148,256,21,[37 22],804,804,ok
+american_pit_bull_terrier_148,256,22,[35 24],843,843,ok
+american_pit_bull_terrier_148,256,23,[34 25],897,897,ok
+american_pit_bull_terrier_148,256,24,[33 26],1031,1031,ok
+american_pit_bull_terrier_148,256,25,[32 27],1032,1032,ok
+american_pit_bull_terrier_148,256,26,[31 28],1086,1086,digital_counts
+american_pit_bull_terrier_148,256,27,[30 29],1232,1232,digital_counts
+american_pit_bull_terrier_148,256,28,[29 30],1412,1412,digital_counts
+american_pit_bull_terrier_148,512,1,[111 12],246,246,ok
+american_pit_bull_terrier_148,512,2,[112 11],248,248,ok
+american_pit_bull_terrier_148,512,3,[110 13],249,249,ok
+american_pit_bull_terrier_148,512,4,[113 10],249,249,ok
+american_pit_bull_terrier_148,512,5,[114 9],251,251,ok
+american_pit_bull_terrier_148,512,6,[109 14],253,253,ok
+american_pit_bull_terrier_148,512,7,[107 16],261,261,ok
+american_pit_bull_terrier_148,512,8,[108 15],262,262,ok
+american_pit_bull_terrier_148,512,9,[115 8],262,262,ok
+american_pit_bull_terrier_148,512,10,[105 18],265,265,ok
+american_pit_bull_terrier_148,512,11,[106 17],267,267,ok
+american_pit_bull_terrier_148,512,12,[104 19],269,269,ok
+american_pit_bull_terrier_148,512,13,[117 6],269,269,ok
+american_pit_bull_terrier_148,512,14,[102 21],271,271,ok
+american_pit_bull_terrier_148,512,15,[116 7],271,271,ok
+american_pit_bull_terrier_148,512,16,[103 20],273,273,ok
+american_pit_bull_terrier_148,512,17,[118 5],275,275,ok
+american_pit_bull_terrier_148,512,18,[101 22],277,277,ok
+american_pit_bull_terrier_148,512,19,[97 26],280,280,ok
+american_pit_bull_terrier_148,512,20,[96 27],281,281,ok
+american_pit_bull_terrier_148,512,21,[98 25],287,287,ok
+american_pit_bull_terrier_148,512,22,[100 23],287,287,ok
+american_pit_bull_terrier_148,512,23,[119 4],298,298,ok
+american_pit_bull_terrier_148,512,24,[99 24],300,300,ok
+american_pit_bull_terrier_148,512,25,[95 28],324,324,ok
+american_pit_bull_terrier_148,512,26,[94 29],329,329,ok
+american_pit_bull_terrier_148,512,27,[93 30],333,333,ok
+american_pit_bull_terrier_148,512,28,[120 3],333,333,ok
+american_pit_bull_terrier_12,128,1,[7 7 4 3 3],2709,2709,ok
+american_pit_bull_terrier_12,128,2,[7 8 3 3 3],2766,2766,ok
+american_pit_bull_terrier_12,128,3,[7 7 3 4 3],2774,2774,ok
+american_pit_bull_terrier_12,128,4,[7 6 5 3 3],2794,2794,ok
+american_pit_bull_terrier_12,128,5,[7 6 4 4 3],2797,2797,ok
+american_pit_bull_terrier_12,128,6,[7 7 3 3 4],2809,2809,ok
+american_pit_bull_terrier_12,128,7,[7 6 4 3 4],2832,2832,ok
+american_pit_bull_terrier_12,128,8,[10 5 3 3 3],2951,2951,ok
+american_pit_bull_terrier_12,128,9,[8 7 3 3 3],3003,3003,ok
+american_pit_bull_terrier_12,128,10,[8 6 4 3 3],3026,3026,ok
+american_pit_bull_terrier_12,128,11,[7 5 4 5 3],3051,3051,ok
+american_pit_bull_terrier_12,128,12,[7 5 4 3 5],3091,3091,ok
+american_pit_bull_terrier_12,128,13,[7 5 6 3 3],3120,3120,ok
+american_pit_bull_terrier_12,128,14,[9 6 3 3 3],3200,3200,ok
+american_pit_bull_terrier_12,128,15,[12 3 3 3 3],3217,3217,digital_counts
+american_pit_bull_terrier_12,128,16,[8 5 5 3 3],3261,3261,ok
+american_pit_bull_terrier_12,128,17,[8 5 3 5 3],3345,3345,ok
+american_pit_bull_terrier_12,128,18,[11 3 4 3 3],3364,3364,digital_counts
+american_pit_bull_terrier_12,128,19,[9 5 4 3 3],3373,3373,ok
+american_pit_bull_terrier_12,128,20,[8 5 3 3 5],3385,3385,ok
+american_pit_bull_terrier_12,128,21,[9 5 3 4 3],3438,3438,ok
+american_pit_bull_terrier_12,128,22,[5 9 4 3 3],3470,3470,ok
+american_pit_bull_terrier_12,128,23,[9 5 3 3 4],3473,3473,ok
+american_pit_bull_terrier_12,128,24,[6 8 4 3 3],3500,3500,ok
+american_pit_bull_terrier_12,128,25,[6 7 5 3 3],3505,3505,ok
+american_pit_bull_terrier_12,128,26,[6 7 4 4 3],3508,3508,ok
+american_pit_bull_terrier_12,128,27,[5 7 4 5 3],3517,3517,ok
+american_pit_bull_terrier_12,128,28,[6 9 3 3 3],3542,3542,ok
+american_pit_bull_terrier_12,128,29,[6 7 4 3 4],3543,3543,ok
+american_pit_bull_terrier_12,128,30,[5 7 4 3 5],3557,3557,ok
+american_pit_bull_terrier_12,128,31,[5 7 6 3 3],3586,3586,ok
+american_pit_bull_terrier_12,128,32,[10 3 5 3 3],3792,3792,digital_counts
+american_pit_bull_terrier_12,128,33,[6 5 7 3 3],3831,3831,ok
+american_pit_bull_terrier_12,128,34,[10 3 3 5 3],3876,3876,digital_counts
+american_pit_bull_terrier_12,128,35,[10 3 3 3 5],3916,3916,digital_counts
+american_pit_bull_terrier_12,128,36,[6 5 3 3 7],4005,4005,ok
+american_pit_bull_terrier_12,128,37,[7 3 4 3 7],4050,4050,digital_counts
+american_pit_bull_terrier_12,128,38,[10 4 3 4 3],4714,4258,ring_boundaries_meet
+american_pit_bull_terrier_12,128,39,[3 11 4 3 3],8828,8828,ok
+american_pit_bull_terrier_12,128,40,[3 7 4 3 7],8993,8993,ok
+american_pit_bull_terrier_12,256,1,[28 12 9 4 3],627,627,ok
+american_pit_bull_terrier_12,256,2,[28 13 8 4 3],628,628,ok
+american_pit_bull_terrier_12,256,3,[27 13 9 4 3],631,631,ok
+american_pit_bull_terrier_12,256,4,[28 12 8 5 3],633,633,ok
+american_pit_bull_terrier_12,256,5,[27 12 10 4 3],635,635,ok
+american_pit_bull_terrier_12,256,6,[27 12 9 5 3],636,636,ok
+american_pit_bull_terrier_12,256,7,[28 13 9 3 3],638,638,ok
+american_pit_bull_terrier_12,256,8,[26 14 9 4 3],641,641,ok
+american_pit_bull_terrier_12,256,9,[28 12 10 3 3],642,642,ok
+american_pit_bull_terrier_12,256,10,[28 14 8 3 3],647,647,ok
+american_pit_bull_terrier_12,256,11,[26 12 11 4 3],652,652,ok
+american_pit_bull_terrier_12,256,12,[28 12 8 4 4],652,652,ok
+american_pit_bull_terrier_12,256,13,[27 12 9 4 4],655,655,ok
+american_pit_bull_terrier_12,256,14,[28 14 7 4 3],656,656,ok
+american_pit_bull_terrier_12,256,15,[26 12 9 6 3],657,657,ok
+american_pit_bull_terrier_12,256,16,[28 11 10 4 3],658,658,ok
+american_pit_bull_terrier_12,256,17,[28 11 9 5 3],659,659,ok
+american_pit_bull_terrier_12,256,18,[28 12 9 3 4],662,662,ok
+american_pit_bull_terrier_12,256,19,[29 12 8 4 3],666,666,ok
+american_pit_bull_terrier_12,256,20,[26 12 9 4 5],667,667,ok
+american_pit_bull_terrier_12,256,21,[26 16 8 3 3],670,670,ok
+american_pit_bull_terrier_12,256,22,[28 10 11 4 3],671,671,ok
+american_pit_bull_terrier_12,256,23,[28 12 7 6 3],672,672,ok
+american_pit_bull_terrier_12,256,24,[28 10 9 6 3],676,676,ok
+american_pit_bull_terrier_12,256,25,[29 12 9 3 3],676,676,ok
+american_pit_bull_terrier_12,256,26,[28 11 9 4 4],678,678,ok
+american_pit_bull_terrier_12,256,27,[28 15 7 3 3],681,681,ok
+american_pit_bull_terrier_12,256,28,[28 12 7 4 5],682,682,ok
+american_pit_bull_terrier_12,256,29,[28 16 5 4 3],695,695,ok
+american_pit_bull_terrier_12,256,30,[32 12 5 4 3],719,719,ok
+american_pit_bull_terrier_12,256,31,[28 12 5 8 3],732,732,ok
+american_pit_bull_terrier_12,256,32,[29 16 5 3 3],744,744,ok
+american_pit_bull_terrier_12,256,33,[24 12 9 8 3],758,758,ok
+american_pit_bull_terrier_12,256,34,[27 16 6 4 3],776,776,ok
+american_pit_bull_terrier_12,256,35,[28 16 6 3 3],783,783,ok
+american_pit_bull_terrier_12,256,36,[32 8 9 4 3],787,787,ok
+american_pit_bull_terrier_12,256,37,[28 14 6 3 5],800,800,ok
+american_pit_bull_terrier_12,256,38,[27 17 6 3 3],815,815,ok
+american_pit_bull_terrier_12,256,39,[26 18 6 3 3],822,822,ok
+american_pit_bull_terrier_12,256,40,[24 16 6 3 7],914,914,ok
+american_pit_bull_terrier_12,512,1,[57 38 12 5 8],220,220,ok
+american_pit_bull_terrier_12,512,2,[55 38 12 5 10],222,222,ok
+american_pit_bull_terrier_12,512,3,[55 40 12 5 8],223,223,ok
+american_pit_bull_terrier_12,512,4,[58 37 12 5 8],223,223,ok
+american_pit_bull_terrier_12,512,5,[55 38 12 7 8],224,224,ok
+american_pit_bull_terrier_12,512,6,[56 38 12 6 8],225,225,ok
+american_pit_bull_terrier_12,512,7,[56 38 13 5 8],225,225,ok
+american_pit_bull_terrier_12,512,8,[57 37 12 6 8],227,227,ok
+american_pit_bull_terrier_12,512,9,[57 37 13 5 8],227,227,ok
+american_pit_bull_terrier_12,512,10,[53 38 12 5 12],228,228,ok
+american_pit_bull_terrier_12,512,11,[56 38 12 5 9],228,228,ok
+american_pit_bull_terrier_12,512,12,[56 39 12 5 8],229,229,ok
+american_pit_bull_terrier_12,512,13,[57 37 12 5 9],230,230,ok
+american_pit_bull_terrier_12,512,14,[58 38 12 4 8],230,230,ok
+american_pit_bull_terrier_12,512,15,[58 38 12 5 7],230,230,ok
+american_pit_bull_terrier_12,512,16,[55 38 14 5 8],231,231,ok
+american_pit_bull_terrier_12,512,17,[61 34 12 5 8],232,232,ok
+american_pit_bull_terrier_12,512,18,[53 38 12 9 8],233,233,ok
+american_pit_bull_terrier_12,512,19,[57 34 12 5 12],233,233,ok
+american_pit_bull_terrier_12,512,20,[57 36 12 5 10],234,234,ok
+american_pit_bull_terrier_12,512,21,[57 38 12 6 7],234,234,ok
+american_pit_bull_terrier_12,512,22,[57 38 13 4 8],234,234,ok
+american_pit_bull_terrier_12,512,23,[57 38 13 5 7],234,234,ok
+american_pit_bull_terrier_12,512,24,[60 34 12 6 8],234,234,ok
+american_pit_bull_terrier_12,512,25,[60 34 13 5 8],234,234,ok
+american_pit_bull_terrier_12,512,26,[53 42 12 5 8],235,235,ok
+american_pit_bull_terrier_12,512,27,[57 34 12 9 8],238,238,ok
+american_pit_bull_terrier_12,512,28,[57 38 11 6 8],239,239,ok
+american_pit_bull_terrier_12,512,29,[60 38 13 6 3],241,241,ok
+american_pit_bull_terrier_12,512,30,[60 32 13 6 9],245,245,ok
+american_pit_bull_terrier_12,512,31,[60 34 13 6 7],248,248,ok
+american_pit_bull_terrier_12,512,32,[58 34 13 8 7],251,251,ok
+american_pit_bull_terrier_12,512,33,[57 40 12 5 6],254,254,ok
+american_pit_bull_terrier_12,512,34,[56 34 13 10 7],256,256,ok
+american_pit_bull_terrier_12,512,35,[60 33 14 6 7],257,257,ok
+american_pit_bull_terrier_12,512,36,[62 34 13 4 7],259,259,ok
+american_pit_bull_terrier_12,512,37,[60 34 15 6 5],263,263,ok
+american_pit_bull_terrier_12,512,38,[60 34 11 8 7],267,267,ok
+american_pit_bull_terrier_12,512,39,[57 38 8 5 12],270,270,ok
+american_pit_bull_terrier_12,512,40,[60 34 9 10 7],282,282,ok
+american_pit_bull_terrier_15,128,1,28,1936,1936,digital_counts
+american_pit_bull_terrier_15,256,1,60,598,598,ok
+american_pit_bull_terrier_15,512,1,124,226,226,ok
+english_cocker_spaniel_143,128,1,[20 7],1834,1834,ok
+english_cocker_spaniel_143,128,2,[22 5],1886,1886,ok
+english_cocker_spaniel_143,128,3,[19 8],1887,1887,ok
+english_cocker_spaniel_143,128,4,[21 6],1913,1913,ok
+english_cocker_spaniel_143,128,5,[23 4],1923,1923,ok
+english_cocker_spaniel_143,128,6,[18 9],2006,2006,ok
+english_cocker_spaniel_143,128,7,[17 10],2136,2136,ok
+english_cocker_spaniel_143,128,8,[16 11],2545,2545,ok
+english_cocker_spaniel_143,128,9,[24 3],2596,2596,ok
+english_cocker_spaniel_143,128,10,[15 12],2825,2825,ok
+english_cocker_spaniel_143,128,11,[14 13],3874,3874,ok
+english_cocker_spaniel_143,128,12,[13 14],4708,4708,ok
+english_cocker_spaniel_143,128,13,[12 15],5175,5175,ok
+english_cocker_spaniel_143,128,14,[11 16],5452,5452,ok
+english_cocker_spaniel_143,128,15,[10 17],7851,7823,ring_boundaries_meet
+english_cocker_spaniel_143,128,16,[9 18],8475,8447,ring_boundaries_meet
+english_cocker_spaniel_143,128,17,[8 19],10525,10497,ring_boundaries_meet
+english_cocker_spaniel_143,128,18,[7 20],11846,11846,ok
+english_cocker_spaniel_143,128,19,[6 21],13828,13828,ok
+english_cocker_spaniel_143,128,20,[5 22],14029,14029,ok
+english_cocker_spaniel_143,128,21,[4 23],15065,15065,ok
+english_cocker_spaniel_143,128,22,[3 24],17798,17780,ring_boundaries_meet
+english_cocker_spaniel_143,256,1,[47 12],709,709,ok
+english_cocker_spaniel_143,256,2,[46 13],735,735,ok
+english_cocker_spaniel_143,256,3,[45 14],743,743,ok
+english_cocker_spaniel_143,256,4,[48 11],766,766,ok
+english_cocker_spaniel_143,256,5,[49 10],769,769,ok
+english_cocker_spaniel_143,256,6,[50 9],779,779,ok
+english_cocker_spaniel_143,256,7,[44 15],781,781,ok
+english_cocker_spaniel_143,256,8,[52 7],787,787,ok
+english_cocker_spaniel_143,256,9,[51 8],814,814,ok
+english_cocker_spaniel_143,256,10,[43 16],837,837,ok
+english_cocker_spaniel_143,256,11,[42 17],853,853,ok
+english_cocker_spaniel_143,256,12,[41 18],913,913,ok
+english_cocker_spaniel_143,256,13,[40 19],927,927,ok
+english_cocker_spaniel_143,256,14,[53 6],956,956,ok
+english_cocker_spaniel_143,256,15,[39 20],958,958,ok
+english_cocker_spaniel_143,256,16,[38 21],960,960,ok
+english_cocker_spaniel_143,256,17,[54 5],976,976,ok
+english_cocker_spaniel_143,256,18,[36 23],997,997,ok
+english_cocker_spaniel_143,256,19,[35 24],1009,1009,ok
+english_cocker_spaniel_143,256,20,[34 25],1013,1013,ok
+english_cocker_spaniel_143,256,21,[32 27],1035,1035,ok
+english_cocker_spaniel_143,256,22,[37 22],1035,1035,ok
+english_cocker_spaniel_143,256,23,[33 26],1048,1048,ok
+english_cocker_spaniel_143,256,24,[31 28],1060,1060,ok
+english_cocker_spaniel_143,256,25,[55 4],1097,1097,ok
+english_cocker_spaniel_143,256,26,[30 29],1114,1114,ok
+english_cocker_spaniel_143,256,27,[29 30],1249,1249,ok
+english_cocker_spaniel_143,256,28,[28 31],1265,1265,ok
+english_cocker_spaniel_143,256,29,[27 32],1305,1305,ok
+english_cocker_spaniel_143,256,30,[26 33],1333,1333,ok
+english_cocker_spaniel_143,256,31,[23 36],1389,1389,ok
+english_cocker_spaniel_143,256,32,[22 37],1459,1459,ok
+english_cocker_spaniel_143,256,33,[21 38],1498,1498,ok
+english_cocker_spaniel_143,256,34,[19 40],1639,1639,ok
+english_cocker_spaniel_143,256,35,[17 42],1965,1965,ok
+english_cocker_spaniel_143,256,36,[15 44],2726,2726,ok
+english_cocker_spaniel_143,256,37,[12 47],5099,5099,ok
+english_cocker_spaniel_143,256,38,[9 50],8404,8404,ring_boundaries_meet
+english_cocker_spaniel_143,256,39,[6 53],13787,13787,ok
+english_cocker_spaniel_143,256,40,[3 56],17776,17776,ring_boundaries_meet
+english_cocker_spaniel_143,512,1,[96 27],291,291,ok
+english_cocker_spaniel_143,512,2,[97 26],294,294,ok
+english_cocker_spaniel_143,512,3,[100 23],295,295,ok
+english_cocker_spaniel_143,512,4,[93 30],296,296,ok
+english_cocker_spaniel_143,512,5,[95 28],296,296,ok
+english_cocker_spaniel_143,512,6,[99 24],297,297,ok
+english_cocker_spaniel_143,512,7,[94 29],299,299,ok
+english_cocker_spaniel_143,512,8,[98 25],299,299,ok
+english_cocker_spaniel_143,512,9,[89 34],301,301,ok
+english_cocker_spaniel_143,512,10,[92 31],304,304,ok
+english_cocker_spaniel_143,512,11,[90 33],306,306,ok
+english_cocker_spaniel_143,512,12,[91 32],311,311,ok
+english_cocker_spaniel_143,512,13,[101 22],312,312,ok
+english_cocker_spaniel_143,512,14,[102 21],312,312,ok
+english_cocker_spaniel_143,512,15,[109 14],318,318,ok
+english_cocker_spaniel_143,512,16,[108 15],319,319,ok
+english_cocker_spaniel_143,512,17,[106 17],321,321,ok
+english_cocker_spaniel_143,512,18,[110 13],322,322,ok
+english_cocker_spaniel_143,512,19,[104 19],324,324,ok
+english_cocker_spaniel_143,512,20,[105 18],326,326,ok
+english_cocker_spaniel_143,512,21,[107 16],327,327,ok
+english_cocker_spaniel_143,512,22,[111 12],338,338,ok
+english_cocker_spaniel_143,512,23,[103 20],340,340,ok
+english_cocker_spaniel_143,512,24,[112 11],359,359,ok
+english_cocker_spaniel_143,512,25,[87 36],374,374,ok
+english_cocker_spaniel_143,512,26,[88 35],374,374,ok
+english_cocker_spaniel_143,512,27,[86 37],375,375,ok
+english_cocker_spaniel_143,512,28,[83 40],377,377,ok
+english_cocker_spaniel_143,512,29,[80 43],379,379,ok
+english_cocker_spaniel_143,512,30,[84 39],384,384,ok
+english_cocker_spaniel_143,512,31,[82 41],387,387,ok
+english_cocker_spaniel_143,512,32,[76 47],388,388,ok
+english_cocker_spaniel_143,512,33,[70 53],393,393,ok
+english_cocker_spaniel_143,512,34,[72 51],396,396,ok
+english_cocker_spaniel_143,512,35,[73 50],403,403,ok
+english_cocker_spaniel_143,512,36,[74 49],411,411,ok
+english_cocker_spaniel_143,512,37,[116 7],460,460,ok
+english_cocker_spaniel_143,512,38,[64 59],474,474,ok
+english_cocker_spaniel_143,512,39,[63 60],483,483,ok
+english_cocker_spaniel_143,512,40,[120 3],1346,1346,ok
+english_cocker_spaniel_171,128,1,28,1512,1512,ok
+english_cocker_spaniel_171,256,1,60,431,431,ok
+english_cocker_spaniel_171,512,1,124,169,169,ok
+english_cocker_spaniel_111,128,1,28,1149,1149,ok
+english_cocker_spaniel_111,256,1,60,467,467,ok
+english_cocker_spaniel_111,512,1,124,204,204,ok
+newfoundland_147,128,1,28,1047,1047,ok
+newfoundland_147,256,1,60,376,376,ok
+newfoundland_147,512,1,124,131,131,ok
+newfoundland_16,128,1,28,1032,1032,ok
+newfoundland_16,256,1,60,436,436,ok
+newfoundland_16,512,1,124,230,230,ok
+newfoundland_103,128,1,28,607,607,ok
+newfoundland_103,256,1,60,278,278,ok
+newfoundland_103,512,1,124,150,150,ok
+pomeranian_104,128,1,28,1168,1168,ok
+pomeranian_104,256,1,60,426,426,ok
+pomeranian_104,512,1,124,210,210,ok
+pomeranian_123,128,1,28,582,582,ok
+pomeranian_123,256,1,60,321,321,ok
+pomeranian_123,512,1,124,164,164,ok
+pomeranian_10,128,1,28,702,702,ok
+pomeranian_10,256,1,60,294,294,ok
+pomeranian_10,512,1,124,124,124,ok
+pug_104,128,1,[19 8],3998,3998,ok
+pug_104,128,2,[18 9],4065,4065,ok
+pug_104,128,3,[17 10],4122,4122,ok
+pug_104,128,4,[20 7],4377,4377,digital_counts
+pug_104,128,5,[22 5],4654,4654,digital_counts
+pug_104,128,6,[16 11],4782,4782,ok
+pug_104,128,7,[21 6],4965,4965,digital_counts
+pug_104,128,8,[15 12],5484,5484,ok
+pug_104,128,9,[23 4],5835,5835,digital_counts
+pug_104,128,10,[14 13],6068,6068,ok
+pug_104,128,11,[13 14],6564,6564,ok
+pug_104,128,12,[12 15],8294,8294,ok
+pug_104,128,13,[24 3],8321,8321,digital_counts
+pug_104,128,14,[11 16],8414,8414,ok
+pug_104,128,15,[10 17],8595,8595,ok
+pug_104,128,16,[9 18],9364,9364,ok
+pug_104,128,17,[7 20],10303,10303,ok
+pug_104,128,18,[8 19],10323,10323,ok
+pug_104,128,19,[6 21],11443,11443,ok
+pug_104,128,20,[5 22],12887,12887,ok
+pug_104,128,21,[4 23],15295,15295,ok
+pug_104,128,22,[3 24],20348,20348,ok
+pug_104,256,1,[46 13],1354,1354,ok
+pug_104,256,2,[42 17],1383,1383,ok
+pug_104,256,3,[43 16],1387,1387,ok
+pug_104,256,4,[48 11],1387,1387,ok
+pug_104,256,5,[44 15],1397,1397,ok
+pug_104,256,6,[45 14],1399,1399,ok
+pug_104,256,7,[39 20],1404,1404,ok
+pug_104,256,8,[41 18],1411,1411,ok
+pug_104,256,9,[47 12],1428,1428,ok
+pug_104,256,10,[40 19],1475,1475,ok
+pug_104,256,11,[49 10],1482,1482,ok
+pug_104,256,12,[38 21],1525,1525,ok
+pug_104,256,13,[37 22],1573,1573,ok
+pug_104,256,14,[36 23],1610,1610,ok
+pug_104,256,15,[35 24],1699,1699,ok
+pug_104,256,16,[51 8],1753,1753,ok
+pug_104,256,17,[33 26],1754,1754,ok
+pug_104,256,18,[29 30],1794,1794,ok
+pug_104,256,19,[34 25],1809,1809,ok
+pug_104,256,20,[31 28],1831,1831,ok
+pug_104,256,21,[30 29],1860,1860,ok
+pug_104,256,22,[28 31],1867,1867,ok
+pug_104,256,23,[32 27],1875,1875,ok
+pug_104,256,24,[50 9],1912,1912,ok
+pug_104,256,25,[27 32],1971,1971,ok
+pug_104,256,26,[26 33],2103,2103,ok
+pug_104,256,27,[25 34],2114,2114,ok
+pug_104,256,28,[24 35],2239,2239,ok
+pug_104,256,29,[52 7],2462,2462,digital_counts
+pug_104,256,30,[23 36],2511,2511,ok
+pug_104,256,31,[22 37],2658,2658,ok
+pug_104,256,32,[21 38],2735,2735,ok
+pug_104,256,33,[54 5],2919,2919,digital_counts
+pug_104,256,34,[19 40],3186,3186,ok
+pug_104,256,35,[16 43],4384,4384,ok
+pug_104,256,36,[14 45],5753,5753,ok
+pug_104,256,37,[12 47],7998,7998,ok
+pug_104,256,38,[9 50],9114,9114,ok
+pug_104,256,39,[6 53],11254,11254,ok
+pug_104,256,40,[3 56],20158,20158,ok
+pug_104,512,1,[85 38],547,547,ok
+pug_104,512,2,[84 39],561,561,ok
+pug_104,512,3,[83 40],564,564,ok
+pug_104,512,4,[86 37],565,565,ok
+pug_104,512,5,[87 36],567,567,ok
+pug_104,512,6,[81 42],576,576,ok
+pug_104,512,7,[94 29],576,576,ok
+pug_104,512,8,[88 35],577,577,ok
+pug_104,512,9,[90 33],577,577,ok
+pug_104,512,10,[92 31],578,578,ok
+pug_104,512,11,[91 32],581,581,ok
+pug_104,512,12,[97 26],583,583,ok
+pug_104,512,13,[96 27],584,584,ok
+pug_104,512,14,[82 41],585,585,ok
+pug_104,512,15,[95 28],586,586,ok
+pug_104,512,16,[93 30],590,590,ok
+pug_104,512,17,[89 34],593,593,ok
+pug_104,512,18,[80 43],595,595,ok
+pug_104,512,19,[79 44],601,601,ok
+pug_104,512,20,[78 45],607,607,ok
+pug_104,512,21,[77 46],619,619,ok
+pug_104,512,22,[76 47],626,626,ok
+pug_104,512,23,[98 25],631,631,ok
+pug_104,512,24,[71 52],632,632,ok
+pug_104,512,25,[73 50],638,638,ok
+pug_104,512,26,[103 20],645,645,ok
+pug_104,512,27,[68 55],670,670,ok
+pug_104,512,28,[105 18],714,714,ok
+pug_104,512,29,[109 14],770,770,ok
+pug_104,512,30,[55 68],830,830,ok
+pug_104,512,31,[51 72],890,890,ok
+pug_104,512,32,[46 77],999,999,ok
+pug_104,512,33,[39 84],1195,1195,ok
+pug_104,512,34,[35 88],1484,1484,ok
+pug_104,512,35,[30 93],1732,1732,ok
+pug_104,512,36,[24 99],2120,2120,ok
+pug_104,512,37,[20 103],2779,2779,ok
+pug_104,512,38,[15 108],5030,5030,ok
+pug_104,512,39,[10 113],8281,8281,ok
+pug_104,512,40,[3 120],20107,20107,ok
+pug_185,128,1,28,275,275,ok
+pug_185,256,1,60,204,204,ok
+pug_185,512,1,124,31,31,ok
+pug_127,128,1,28,1317,1317,ok
+pug_127,256,1,60,399,399,ok
+pug_127,512,1,124,230,230,ok
+shiba_inu_147,128,1,[8 3 3 3 3 3],16795,16795,digital_counts
+shiba_inu_147,128,2,[7 3 3 4 3 3],19590,19590,digital_counts
+shiba_inu_147,128,3,[7 3 3 3 3 4],19591,19591,digital_counts
+shiba_inu_147,128,4,[7 3 3 3 4 3],19591,19591,digital_counts
+shiba_inu_147,128,5,[7 4 3 3 3 3],19674,19674,digital_counts
+shiba_inu_147,128,6,[4 3 7 3 3 3],23188,23188,digital_counts
+shiba_inu_147,128,7,[4 7 3 3 3 3],23443,23443,ok
+shiba_inu_147,128,8,[6 3 5 3 3 3],24309,24309,digital_counts
+shiba_inu_147,128,9,[6 5 3 3 3 3],24823,24823,digital_counts
+shiba_inu_147,256,1,[31 8 7 3 3 3],4112,4112,ok
+shiba_inu_147,256,2,[31 9 6 3 3 3],4128,4128,ok
+shiba_inu_147,256,3,[34 7 5 3 3 3],4138,4138,ok
+shiba_inu_147,256,4,[31 8 6 4 3 3],4142,4142,ok
+shiba_inu_147,256,5,[31 8 6 3 3 4],4143,4143,ok
+shiba_inu_147,256,6,[31 8 6 3 4 3],4143,4143,ok
+shiba_inu_147,256,7,[32 8 6 3 3 3],4157,4157,ok
+shiba_inu_147,256,8,[33 8 5 3 3 3],4173,4173,ok
+shiba_inu_147,256,9,[31 7 8 3 3 3],4179,4179,ok
+shiba_inu_147,256,10,[31 10 5 3 3 3],4187,4187,ok
+shiba_inu_147,256,11,[31 7 7 4 3 3],4242,4242,ok
+shiba_inu_147,256,12,[32 9 5 3 3 3],4242,4242,ok
+shiba_inu_147,256,13,[31 7 7 3 3 4],4243,4243,ok
+shiba_inu_147,256,14,[31 7 7 3 4 3],4243,4243,ok
+shiba_inu_147,256,15,[31 6 9 3 3 3],4255,4255,digital_counts
+shiba_inu_147,256,16,[32 7 7 3 3 3],4257,4257,ok
+shiba_inu_147,256,17,[29 8 9 3 3 3],4304,4304,ok
+shiba_inu_147,256,18,[35 6 5 3 3 3],4316,4316,digital_counts
+shiba_inu_147,256,19,[38 3 5 3 3 3],4336,4336,digital_counts
+shiba_inu_147,256,20,[33 6 7 3 3 3],4341,4341,digital_counts
+shiba_inu_147,256,21,[34 5 7 3 3 3],4397,4397,digital_counts
+shiba_inu_147,256,22,[29 10 7 3 3 3],4404,4404,ok
+shiba_inu_147,256,23,[35 5 6 3 3 3],4438,4438,digital_counts
+shiba_inu_147,256,24,[30 8 8 3 3 3],4483,4483,ok
+shiba_inu_147,256,25,[32 5 9 3 3 3],4491,4491,digital_counts
+shiba_inu_147,256,26,[35 4 7 3 3 3],4493,4493,digital_counts
+shiba_inu_147,256,27,[31 4 11 3 3 3],4518,4518,digital_counts
+shiba_inu_147,256,28,[36 3 7 3 3 3],4530,4530,digital_counts
+shiba_inu_147,256,29,[30 9 7 3 3 3],4532,4532,ok
+shiba_inu_147,256,30,[35 8 3 3 3 3],4534,4534,ok
+shiba_inu_147,256,31,[35 5 5 4 3 3],4537,4537,digital_counts
+shiba_inu_147,256,32,[35 5 5 3 3 4],4538,4538,digital_counts
+shiba_inu_147,256,33,[35 5 5 3 4 3],4538,4538,digital_counts
+shiba_inu_147,256,34,[30 8 7 4 3 3],4546,4546,ok
+shiba_inu_147,256,35,[30 8 7 3 3 4],4547,4547,ok
+shiba_inu_147,256,36,[30 8 7 3 4 3],4547,4547,ok
+shiba_inu_147,256,37,[36 5 5 3 3 3],4658,4658,digital_counts
+shiba_inu_147,256,38,[27 12 7 3 3 3],4673,4673,ok
+shiba_inu_147,256,39,[36 4 5 3 3 4],4744,4744,digital_counts
+shiba_inu_147,256,40,[38 5 3 3 3 3],4850,4850,digital_counts
+shiba_inu_147,512,1,[81 13 16 3 3 3],1088,1088,ok
+shiba_inu_147,512,2,[82 12 16 3 3 3],1094,1094,ok
+shiba_inu_147,512,3,[81 12 17 3 3 3],1099,1099,ok
+shiba_inu_147,512,4,[81 12 16 4 3 3],1104,1104,ok
+shiba_inu_147,512,5,[81 12 16 3 3 4],1105,1105,ok
+shiba_inu_147,512,6,[81 12 16 3 4 3],1105,1105,ok
+shiba_inu_147,512,7,[80 14 16 3 3 3],1106,1106,ok
+shiba_inu_147,512,8,[79 15 16 3 3 3],1110,1110,ok
+shiba_inu_147,512,9,[80 13 17 3 3 3],1117,1117,ok
+shiba_inu_147,512,10,[81 15 14 3 3 3],1117,1117,ok
+shiba_inu_147,512,11,[81 14 15 3 3 3],1120,1120,ok
+shiba_inu_147,512,12,[80 13 16 4 3 3],1122,1122,ok
+shiba_inu_147,512,13,[80 13 16 3 3 4],1123,1123,ok
+shiba_inu_147,512,14,[80 13 16 3 4 3],1123,1123,ok
+shiba_inu_147,512,15,[82 13 15 3 3 3],1126,1126,ok
+shiba_inu_147,512,16,[77 17 16 3 3 3],1127,1127,ok
+shiba_inu_147,512,17,[85 9 16 3 3 3],1129,1129,ok
+shiba_inu_147,512,18,[79 13 18 3 3 3],1130,1130,ok
+shiba_inu_147,512,19,[83 13 14 3 3 3],1132,1132,ok
+shiba_inu_147,512,20,[81 13 15 4 3 3],1136,1136,ok
+shiba_inu_147,512,21,[77 13 20 3 3 3],1137,1137,ok
+shiba_inu_147,512,22,[81 13 15 3 3 4],1137,1137,ok
+shiba_inu_147,512,23,[81 13 15 3 4 3],1137,1137,ok
+shiba_inu_147,512,24,[84 13 13 3 3 3],1137,1137,ok
+shiba_inu_147,512,25,[83 11 16 3 3 3],1138,1138,ok
+shiba_inu_147,512,26,[81 11 18 3 3 3],1143,1143,ok
+shiba_inu_147,512,27,[85 12 13 3 3 3],1143,1143,ok
+shiba_inu_147,512,28,[84 14 12 3 3 3],1144,1144,ok
+shiba_inu_147,512,29,[85 13 12 3 3 3],1150,1150,ok
+shiba_inu_147,512,30,[81 9 20 3 3 3],1151,1151,ok
+shiba_inu_147,512,31,[85 11 14 3 3 3],1155,1155,ok
+shiba_inu_147,512,32,[84 13 12 4 3 3],1160,1160,ok
+shiba_inu_147,512,33,[84 13 12 3 3 4],1161,1161,ok
+shiba_inu_147,512,34,[84 13 12 3 4 3],1161,1161,ok
+shiba_inu_147,512,35,[85 12 12 4 3 3],1166,1166,ok
+shiba_inu_147,512,36,[85 12 12 3 4 3],1167,1167,ok
+shiba_inu_147,512,37,[85 15 10 3 3 3],1194,1194,ok
+shiba_inu_147,512,38,[85 13 11 3 4 3],1196,1196,ok
+shiba_inu_147,512,39,[87 11 12 3 3 3],1261,1261,ok
+shiba_inu_147,512,40,[89 13 8 3 3 3],1310,1310,ok
+shiba_inu_142,128,1,[11 4 7 3],5269,5269,digital_counts
+shiba_inu_142,128,2,[12 4 6 3],5343,5343,digital_counts
+shiba_inu_142,128,3,[11 4 6 4],5896,5896,digital_counts
+shiba_inu_142,128,4,[13 4 5 3],5911,5911,digital_counts
+shiba_inu_142,128,5,[9 4 9 3],6234,6234,ok
+shiba_inu_142,128,6,[7 4 11 3],6417,6417,ok
+shiba_inu_142,128,7,[9 4 7 5],6545,6545,ok
+shiba_inu_142,128,8,[15 4 3 3],6645,6619,ring_boundaries_meet
+shiba_inu_142,128,9,[9 6 7 3],6674,6674,ok
+shiba_inu_142,128,10,[8 6 8 3],6689,6689,ok
+shiba_inu_142,128,11,[11 5 6 3],6760,6760,digital_counts
+shiba_inu_142,128,12,[10 4 8 3],6785,6785,digital_counts
+shiba_inu_142,128,13,[11 4 5 5],6829,6829,digital_counts
+shiba_inu_142,128,14,[7 8 7 3],6947,6947,ok
+shiba_inu_142,128,15,[10 4 7 4],6957,6957,digital_counts
+shiba_inu_142,128,16,[11 6 5 3],6958,6958,digital_counts
+shiba_inu_142,128,17,[12 3 7 3],6997,6997,digital_counts
+shiba_inu_142,128,18,[9 7 6 3],7130,7130,ok
+shiba_inu_142,128,19,[7 4 7 7],7160,7160,ok
+shiba_inu_142,128,20,[8 8 6 3],7170,7170,ok
+shiba_inu_142,128,21,[12 6 4 3],7281,7255,ring_boundaries_meet
+shiba_inu_142,128,22,[9 6 6 4],7301,7301,ok
+shiba_inu_142,128,23,[11 3 8 3],7378,7378,digital_counts
+shiba_inu_142,128,24,[8 6 6 5],7506,7506,ok
+shiba_inu_142,128,25,[11 3 7 4],7550,7550,digital_counts
+shiba_inu_142,128,26,[10 4 6 5],7602,7602,digital_counts
+shiba_inu_142,128,27,[10 6 6 3],7731,7731,digital_counts
+shiba_inu_142,128,28,[11 8 3 3],7752,7726,ring_boundaries_meet
+shiba_inu_142,128,29,[10 5 7 3],7821,7821,digital_counts
+shiba_inu_142,128,30,[11 4 3 7],7965,7939,ring_boundaries_meet
+shiba_inu_142,128,31,[6 6 10 3],8259,8259,ok
+shiba_inu_142,128,32,[10 5 6 4],8448,8448,digital_counts
+shiba_inu_142,128,33,[10 7 5 3],8475,8475,digital_counts
+shiba_inu_142,128,34,[10 6 5 4],8646,8646,digital_counts
+shiba_inu_142,128,35,[6 10 6 3],9062,9062,ok
+shiba_inu_142,128,36,[10 8 4 3],9204,9178,ring_boundaries_meet
+shiba_inu_142,128,37,[6 6 6 7],9524,9524,ok
+shiba_inu_142,128,38,[10 6 4 5],9540,9514,ring_boundaries_meet
+shiba_inu_142,256,1,[23 14 17 3],1299,1299,ok
+shiba_inu_142,256,2,[22 15 17 3],1301,1301,ok
+shiba_inu_142,256,3,[22 14 18 3],1311,1311,ok
+shiba_inu_142,256,4,[22 14 17 4],1317,1317,ok
+shiba_inu_142,256,5,[24 13 17 3],1320,1320,ok
+shiba_inu_142,256,6,[24 15 15 3],1322,1322,ok
+shiba_inu_142,256,7,[25 14 15 3],1334,1334,ok
+shiba_inu_142,256,8,[24 14 15 4],1338,1338,ok
+shiba_inu_142,256,9,[24 12 18 3],1339,1339,ok
+shiba_inu_142,256,10,[25 12 17 3],1341,1341,ok
+shiba_inu_142,256,11,[23 13 18 3],1342,1342,ok
+shiba_inu_142,256,12,[23 13 17 4],1348,1348,ok
+shiba_inu_142,256,13,[23 16 15 3],1352,1352,ok
+shiba_inu_142,256,14,[23 14 15 5],1384,1384,ok
+shiba_inu_142,256,15,[23 12 17 5],1391,1391,ok
+shiba_inu_142,256,16,[23 12 19 3],1403,1403,ok
+shiba_inu_142,256,17,[27 14 13 3],1406,1406,ok
+shiba_inu_142,256,18,[20 14 20 3],1416,1416,digital_counts
+shiba_inu_142,256,19,[21 16 17 3],1422,1422,digital_counts
+shiba_inu_142,256,20,[23 18 13 3],1445,1445,ok
+shiba_inu_142,256,21,[21 14 17 5],1454,1454,digital_counts
+shiba_inu_142,256,22,[19 14 21 3],1463,1463,digital_counts
+shiba_inu_142,256,23,[21 14 19 3],1466,1466,digital_counts
+shiba_inu_142,256,24,[24 14 16 3],1467,1467,ok
+shiba_inu_142,256,25,[23 15 16 3],1479,1479,ok
+shiba_inu_142,256,26,[24 18 12 3],1486,1486,ok
+shiba_inu_142,256,27,[19 18 17 3],1487,1487,digital_counts
+shiba_inu_142,256,28,[28 14 12 3],1488,1488,ok
+shiba_inu_142,256,29,[23 14 13 7],1492,1492,ok
+shiba_inu_142,256,30,[23 14 16 4],1495,1495,ok
+shiba_inu_142,256,31,[22 16 16 3],1499,1499,ok
+shiba_inu_142,256,32,[25 13 16 3],1512,1512,ok
+shiba_inu_142,256,33,[24 13 16 4],1516,1516,ok
+shiba_inu_142,256,34,[26 12 16 3],1519,1519,ok
+shiba_inu_142,256,35,[24 10 20 3],1525,1525,ok
+shiba_inu_142,256,36,[24 14 12 7],1533,1533,ok
+shiba_inu_142,256,37,[27 10 17 3],1541,1541,ok
+shiba_inu_142,256,38,[24 12 16 5],1559,1559,ok
+shiba_inu_142,256,39,[20 18 16 3],1639,1639,digital_counts
+shiba_inu_142,256,40,[24 10 16 7],1795,1795,ok
+shiba_inu_142,512,1,[45 26 46 4],486,486,ok
+shiba_inu_142,512,2,[44 27 46 4],489,489,ok
+shiba_inu_142,512,3,[46 26 45 4],489,489,ok
+shiba_inu_142,512,4,[44 26 46 5],492,492,ok
+shiba_inu_142,512,5,[46 26 46 3],494,494,ok
+shiba_inu_142,512,6,[44 26 47 4],495,495,ok
+shiba_inu_142,512,7,[45 27 45 4],496,496,ok
+shiba_inu_142,512,8,[45 26 42 8],497,497,ok
+shiba_inu_142,512,9,[45 26 44 6],499,499,ok
+shiba_inu_142,512,10,[45 26 45 5],499,499,ok
+shiba_inu_142,512,11,[45 24 46 6],501,501,ok
+shiba_inu_142,512,12,[45 24 48 4],501,501,ok
+shiba_inu_142,512,13,[45 27 46 3],501,501,ok
+shiba_inu_142,512,14,[47 26 44 4],502,502,ok
+shiba_inu_142,512,15,[54 29 34 4],502,502,ok
+shiba_inu_142,512,16,[46 25 46 4],503,503,ok
+shiba_inu_142,512,17,[56 27 34 4],503,503,ok
+shiba_inu_142,512,18,[47 24 46 4],504,504,ok
+shiba_inu_142,512,19,[48 35 34 4],504,504,ok
+shiba_inu_142,512,20,[48 31 34 8],505,505,ok
+shiba_inu_142,512,21,[45 26 47 3],507,507,ok
+shiba_inu_142,512,22,[45 28 44 4],509,509,ok
+shiba_inu_142,512,23,[52 27 34 8],511,511,ok
+shiba_inu_142,512,24,[52 29 34 6],511,511,ok
+shiba_inu_142,512,25,[52 31 34 4],511,511,ok
+shiba_inu_142,512,26,[45 25 46 5],513,513,ok
+shiba_inu_142,512,27,[43 26 46 6],515,515,ok
+shiba_inu_142,512,28,[43 26 48 4],515,515,ok
+shiba_inu_142,512,29,[49 26 42 4],515,515,ok
+shiba_inu_142,512,30,[45 25 47 4],516,516,ok
+shiba_inu_142,512,31,[45 30 42 4],516,516,ok
+shiba_inu_142,512,32,[53 31 33 4],519,519,ok
+shiba_inu_142,512,33,[53 31 34 3],523,523,ok
+shiba_inu_142,512,34,[43 28 46 4],525,525,ok
+shiba_inu_142,512,35,[41 26 46 8],527,527,ok
+shiba_inu_142,512,36,[52 32 34 3],528,528,ok
+shiba_inu_142,512,37,[50 31 34 6],531,531,ok
+shiba_inu_142,512,38,[52 30 35 4],537,537,ok
+shiba_inu_142,512,39,[41 30 46 4],546,546,ok
+shiba_inu_142,512,40,[52 31 30 8],560,560,ok
+shiba_inu_173,128,1,[8 3 3 3 3 3],2135,2135,ok
+shiba_inu_173,128,2,[7 4 3 3 3 3],2390,2390,ok
+shiba_inu_173,128,3,[7 3 4 3 3 3],2392,2392,ok
+shiba_inu_173,128,4,[7 3 3 4 3 3],2430,2430,ok
+shiba_inu_173,128,5,[7 3 3 3 3 4],2433,2433,ok
+shiba_inu_173,128,6,[7 3 3 3 4 3],2433,2433,ok
+shiba_inu_173,128,7,[6 5 3 3 3 3],2922,2922,ok
+shiba_inu_173,128,8,[6 3 5 3 3 3],2962,2962,ok
+shiba_inu_173,128,9,[6 3 3 5 3 3],3007,3007,digital_counts
+shiba_inu_173,256,1,[35 6 5 3 3 3],314,314,ok
+shiba_inu_173,256,2,[31 6 5 7 3 3],323,323,ok
+shiba_inu_173,256,3,[31 10 5 3 3 3],327,327,ok
+shiba_inu_173,256,4,[34 6 5 4 3 3],328,328,ok
+shiba_inu_173,256,5,[35 6 4 4 3 3],328,328,ok
+shiba_inu_173,256,6,[33 6 5 5 3 3],330,330,digital_counts
+shiba_inu_173,256,7,[34 6 6 3 3 3],330,330,ok
+shiba_inu_173,256,8,[34 6 5 3 3 4],331,331,ok
+shiba_inu_173,256,9,[34 6 5 3 4 3],331,331,ok
+shiba_inu_173,256,10,[35 6 4 3 3 4],331,331,ok
+shiba_inu_173,256,11,[35 6 4 3 4 3],331,331,ok
+shiba_inu_173,256,12,[33 8 5 3 3 3],332,332,ok
+shiba_inu_173,256,13,[34 6 4 5 3 3],335,335,digital_counts
+shiba_inu_173,256,14,[36 6 4 3 3 3],336,336,ok
+shiba_inu_173,256,15,[33 6 7 3 3 3],337,337,ok
+shiba_inu_173,256,16,[34 8 4 3 3 3],337,337,ok
+shiba_inu_173,256,17,[34 7 5 3 3 3],339,339,ok
+shiba_inu_173,256,18,[35 7 4 3 3 3],339,339,ok
+shiba_inu_173,256,19,[31 6 9 3 3 3],340,340,ok
+shiba_inu_173,256,20,[33 9 4 3 3 3],340,340,ok
+shiba_inu_173,256,21,[33 8 4 4 3 3],346,346,ok
+shiba_inu_173,256,22,[33 8 4 3 3 4],349,349,ok
+shiba_inu_173,256,23,[33 8 4 3 4 3],349,349,ok
+shiba_inu_173,256,24,[32 8 6 3 3 3],352,352,ok
+shiba_inu_173,256,25,[34 7 4 4 3 3],353,353,ok
+shiba_inu_173,256,26,[34 7 4 3 3 4],356,356,ok
+shiba_inu_173,256,27,[34 7 4 3 4 3],356,356,ok
+shiba_inu_173,256,28,[32 8 4 5 3 3],357,357,digital_counts
+shiba_inu_173,256,29,[30 8 4 7 3 3],359,359,ok
+shiba_inu_173,256,30,[35 6 3 5 3 3],359,359,digital_counts
+shiba_inu_173,256,31,[32 10 4 3 3 3],361,361,ok
+shiba_inu_173,256,32,[35 8 3 3 3 3],361,361,ok
+shiba_inu_173,256,33,[30 8 8 3 3 3],362,362,ok
+shiba_inu_173,256,34,[34 9 3 3 3 3],369,369,ok
+shiba_inu_173,256,35,[35 5 6 3 3 3],372,372,ok
+shiba_inu_173,256,36,[35 5 5 3 4 3],373,373,ok
+shiba_inu_173,256,37,[34 8 3 3 4 3],378,378,ok
+shiba_inu_173,256,38,[37 6 3 3 3 3],382,382,ok
+shiba_inu_173,256,39,[34 4 4 7 3 3],438,438,ok
+shiba_inu_173,256,40,[38 4 4 3 3 3],450,450,ok
+shiba_inu_173,512,1,[81 11 7 14 3 3],128,128,ok
+shiba_inu_173,512,2,[81 9 9 14 3 3],132,132,ok
+shiba_inu_173,512,3,[81 11 7 13 3 4],132,132,ok
+shiba_inu_173,512,4,[81 11 7 13 4 3],132,132,ok
+shiba_inu_173,512,5,[81 13 5 14 3 3],132,132,ok
+shiba_inu_173,512,6,[81 13 7 12 3 3],132,132,ok
+shiba_inu_173,512,7,[82 11 7 13 3 3],132,132,ok
+shiba_inu_173,512,8,[81 9 7 16 3 3],133,133,ok
+shiba_inu_173,512,9,[81 10 7 14 3 4],133,133,ok
+shiba_inu_173,512,10,[81 10 7 14 4 3],133,133,ok
+shiba_inu_173,512,11,[81 10 7 15 3 3],133,133,ok
+shiba_inu_173,512,12,[81 11 6 14 3 4],133,133,ok
+shiba_inu_173,512,13,[81 11 6 14 4 3],133,133,ok
+shiba_inu_173,512,14,[81 11 6 15 3 3],133,133,ok
+shiba_inu_173,512,15,[81 11 9 12 3 3],133,133,ok
+shiba_inu_173,512,16,[81 11 11 10 3 3],133,133,ok
+shiba_inu_173,512,17,[82 10 7 14 3 3],133,133,ok
+shiba_inu_173,512,18,[82 11 6 14 3 3],133,133,ok
+shiba_inu_173,512,19,[81 11 5 16 3 3],134,134,ok
+shiba_inu_173,512,20,[81 11 8 13 3 3],134,134,ok
+shiba_inu_173,512,21,[83 9 7 14 3 3],134,134,ok
+shiba_inu_173,512,22,[81 10 8 14 3 3],135,135,ok
+shiba_inu_173,512,23,[81 12 7 13 3 3],135,135,ok
+shiba_inu_173,512,24,[83 11 5 14 3 3],135,135,ok
+shiba_inu_173,512,25,[83 11 7 12 3 3],135,135,ok
+shiba_inu_173,512,26,[83 13 9 8 3 3],135,135,ok
+shiba_inu_173,512,27,[80 11 7 14 4 3],137,137,ok
+shiba_inu_173,512,28,[81 17 7 8 3 3],139,139,ok
+shiba_inu_173,512,29,[79 11 7 16 3 3],143,143,ok
+shiba_inu_173,512,30,[78 17 10 8 3 3],145,145,ok
+shiba_inu_173,512,31,[77 15 7 14 3 3],148,148,ok
+shiba_inu_173,512,32,[79 18 9 7 3 3],149,149,ok
+shiba_inu_173,512,33,[79 17 10 7 3 3],150,150,ok
+shiba_inu_173,512,34,[79 18 8 8 3 3],152,152,ok
+shiba_inu_173,512,35,[79 17 8 9 3 3],153,153,ok
+shiba_inu_173,512,36,[79 17 9 8 3 3],153,153,ok
+shiba_inu_173,512,37,[79 19 9 6 3 3],154,154,ok
+shiba_inu_173,512,38,[79 21 5 8 3 3],156,156,ok
+shiba_inu_173,512,39,[83 17 9 4 3 3],160,160,ok
+shiba_inu_173,512,40,[81 15 3 14 3 3],194,194,ok
+staffordshire_bull_terrier_195,128,1,28,1913,1913,ok
+staffordshire_bull_terrier_195,256,1,60,770,770,ok
+staffordshire_bull_terrier_195,512,1,124,316,316,ok
+staffordshire_bull_terrier_130,128,1,28,594,594,ok
+staffordshire_bull_terrier_130,256,1,60,240,240,ok
+staffordshire_bull_terrier_130,512,1,124,50,50,ok
+staffordshire_bull_terrier_198,128,1,28,1593,1593,ok
+staffordshire_bull_terrier_198,256,1,60,483,483,ok
+staffordshire_bull_terrier_198,512,1,124,215,215,ok
+yorkshire_terrier_138,128,1,28,1088,1088,ok
+yorkshire_terrier_138,256,1,60,442,442,ok
+yorkshire_terrier_138,512,1,124,235,235,ok
+yorkshire_terrier_135,128,1,28,268,268,ok
+yorkshire_terrier_135,256,1,60,138,138,ok
+yorkshire_terrier_135,512,1,124,54,54,ok
+yorkshire_terrier_106,128,1,[21 6],2324,2324,ok
+yorkshire_terrier_106,128,2,[19 8],2339,2339,ok
+yorkshire_terrier_106,128,3,[22 5],2343,2343,ok
+yorkshire_terrier_106,128,4,[18 9],2484,2484,ok
+yorkshire_terrier_106,128,5,[23 4],2530,2530,ok
+yorkshire_terrier_106,128,6,[17 10],2626,2626,ok
+yorkshire_terrier_106,128,7,[20 7],2654,2654,ok
+yorkshire_terrier_106,128,8,[16 11],2996,2996,ok
+yorkshire_terrier_106,128,9,[15 12],3120,3120,ok
+yorkshire_terrier_106,128,10,[13 14],3164,3164,ok
+yorkshire_terrier_106,128,11,[14 13],3249,3249,ok
+yorkshire_terrier_106,128,12,[24 3],3458,3458,digital_counts
+yorkshire_terrier_106,128,13,[11 16],3614,3614,ok
+yorkshire_terrier_106,128,14,[9 18],3731,3731,ok
+yorkshire_terrier_106,128,15,[10 17],3832,3832,ok
+yorkshire_terrier_106,128,16,[12 15],4117,4117,ok
+yorkshire_terrier_106,128,17,[8 19],5499,5499,ok
+yorkshire_terrier_106,128,18,[7 20],6897,6897,ok
+yorkshire_terrier_106,128,19,[4 23],7614,7586,ring_boundaries_meet
+yorkshire_terrier_106,128,20,[5 22],7670,7642,ring_boundaries_meet
+yorkshire_terrier_106,128,21,[6 21],8283,8283,ok
+yorkshire_terrier_106,128,22,[3 24],19014,18908,ring_boundaries_meet
+yorkshire_terrier_106,256,1,[40 19],713,713,ok
+yorkshire_terrier_106,256,2,[39 20],734,734,ok
+yorkshire_terrier_106,256,3,[41 18],737,737,ok
+yorkshire_terrier_106,256,4,[42 17],751,751,ok
+yorkshire_terrier_106,256,5,[38 21],766,766,ok
+yorkshire_terrier_106,256,6,[35 24],769,769,ok
+yorkshire_terrier_106,256,7,[43 16],778,778,ok
+yorkshire_terrier_106,256,8,[32 27],779,779,ok
+yorkshire_terrier_106,256,9,[34 25],783,783,ok
+yorkshire_terrier_106,256,10,[33 26],786,786,ok
+yorkshire_terrier_106,256,11,[37 22],789,789,ok
+yorkshire_terrier_106,256,12,[36 23],803,803,ok
+yorkshire_terrier_106,256,13,[44 15],827,827,ok
+yorkshire_terrier_106,256,14,[31 28],830,830,ok
+yorkshire_terrier_106,256,15,[30 29],877,877,ok
+yorkshire_terrier_106,256,16,[45 14],883,883,ok
+yorkshire_terrier_106,256,17,[29 30],884,884,ok
+yorkshire_terrier_106,256,18,[28 31],899,899,ok
+yorkshire_terrier_106,256,19,[46 13],937,937,ok
+yorkshire_terrier_106,256,20,[27 32],947,947,ok
+yorkshire_terrier_106,256,21,[26 33],980,980,ok
+yorkshire_terrier_106,256,22,[25 34],982,982,ok
+yorkshire_terrier_106,256,23,[47 12],1022,1022,ok
+yorkshire_terrier_106,256,24,[48 11],1078,1078,ok
+yorkshire_terrier_106,256,25,[24 35],1107,1107,ok
+yorkshire_terrier_106,256,26,[49 10],1135,1135,ok
+yorkshire_terrier_106,256,27,[23 36],1180,1180,ok
+yorkshire_terrier_106,256,28,[51 8],1216,1216,ok
+yorkshire_terrier_106,256,29,[50 9],1232,1232,ok
+yorkshire_terrier_106,256,30,[53 6],1309,1309,ok
+yorkshire_terrier_106,256,31,[22 37],1319,1319,ok
+yorkshire_terrier_106,256,32,[52 7],1501,1501,ok
+yorkshire_terrier_106,256,33,[21 38],1578,1578,ok
+yorkshire_terrier_106,256,34,[18 41],1811,1811,ok
+yorkshire_terrier_106,256,35,[16 43],2506,2506,ok
+yorkshire_terrier_106,256,36,[56 3],2864,2864,digital_counts
+yorkshire_terrier_106,256,37,[11 48],3420,3420,ok
+yorkshire_terrier_106,256,38,[12 47],3874,3874,ok
+yorkshire_terrier_106,256,39,[4 55],7538,7536,ring_boundaries_meet
+yorkshire_terrier_106,256,40,[3 56],18945,18911,ring_boundaries_meet
+yorkshire_terrier_106,512,1,[96 27],325,325,ok
+yorkshire_terrier_106,512,2,[93 30],326,326,ok
+yorkshire_terrier_106,512,3,[94 29],326,326,ok
+yorkshire_terrier_106,512,4,[95 28],329,329,ok
+yorkshire_terrier_106,512,5,[92 31],334,334,ok
+yorkshire_terrier_106,512,6,[97 26],335,335,ok
+yorkshire_terrier_106,512,7,[91 32],340,340,ok
+yorkshire_terrier_106,512,8,[89 34],343,343,ok
+yorkshire_terrier_106,512,9,[88 35],344,344,ok
+yorkshire_terrier_106,512,10,[90 33],344,344,ok
+yorkshire_terrier_106,512,11,[74 49],345,345,ok
+yorkshire_terrier_106,512,12,[70 53],349,349,ok
+yorkshire_terrier_106,512,13,[98 25],349,349,ok
+yorkshire_terrier_106,512,14,[67 56],351,351,ok
+yorkshire_terrier_106,512,15,[75 48],351,351,ok
+yorkshire_terrier_106,512,16,[71 52],352,352,ok
+yorkshire_terrier_106,512,17,[73 50],352,352,ok
+yorkshire_terrier_106,512,18,[69 54],353,353,ok
+yorkshire_terrier_106,512,19,[87 36],354,354,ok
+yorkshire_terrier_106,512,20,[72 51],355,355,ok
+yorkshire_terrier_106,512,21,[99 24],355,355,ok
+yorkshire_terrier_106,512,22,[68 55],360,360,ok
+yorkshire_terrier_106,512,23,[82 41],361,361,ok
+yorkshire_terrier_106,512,24,[76 47],362,362,ok
+yorkshire_terrier_106,512,25,[83 40],362,362,ok
+yorkshire_terrier_106,512,26,[84 39],367,367,ok
+yorkshire_terrier_106,512,27,[104 19],382,382,ok
+yorkshire_terrier_106,512,28,[63 60],407,407,ok
+yorkshire_terrier_106,512,29,[57 66],463,463,ok
+yorkshire_terrier_106,512,30,[50 73],532,532,ok
+yorkshire_terrier_106,512,31,[48 75],564,564,ok
+yorkshire_terrier_106,512,32,[42 81],593,593,ok
+yorkshire_terrier_106,512,33,[35 88],690,690,ok
+yorkshire_terrier_106,512,34,[31 92],770,770,ok
+yorkshire_terrier_106,512,35,[27 96],896,896,ok
+yorkshire_terrier_106,512,36,[24 99],1062,1062,ok
+yorkshire_terrier_106,512,37,[119 4],1648,1648,ok
+yorkshire_terrier_106,512,38,[120 3],2640,2640,digital_counts
+yorkshire_terrier_106,512,39,[10 113],3665,3665,ok
+yorkshire_terrier_106,512,40,[3 120],18923,18923,ring_boundaries_meet

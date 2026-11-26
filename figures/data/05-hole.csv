@@ -1,0 +1,2 @@
+dataset,id,session,rep,budget,method,deadline,status,nbytes,xor,fp,fn,iou,rmse,received_ms,sha256,rings,return_ms,reference_id,decoded_id,area_ratio,reference_label,decoded_label,reference_area,decoded_area,overlap,xmin,xmax,ymin,ymax
+Oxford,beagle_27,1,1,256,cross,100,success,254,1012,814,198,0.933240978956396,0.0778452326062486,71.5209,c2b261d5bd9480231a81ffd6c0efe21edb21915bb620720b0bfba48beb293ec7,2,245.8824,2,2,0.667701863354037,2,2,322,215,215,210,233,335,365
